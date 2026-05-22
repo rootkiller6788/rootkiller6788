@@ -30,27 +30,28 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 
 > Full coverage of the entire computer technology stack, **100% pure C implemented from scratch**. Rigorous bottom-up construction to verify the underlying core principles of all hardware, system, network, business and intelligent technologies.
 
-| Repository | Description | Link |
-|-----------|-------------|------|
-| `mini-math-theory` | University-level mathematics & computer theory for system and AI modeling | [🔗 View](https://github.com/rootkiller6788/mini-math-theory) |
-| `mini-hardware-physical` | Bottom-up hardware design and physical circuit implementation | [🔗 View](https://github.com/rootkiller6788/mini-hardware-physical) |
-| `mini-lang-compiler-vm` | From-scratch programming language, compiler & virtual machine implementation | [🔗 View](https://github.com/rootkiller6788/mini-lang-compiler-vm) |
-| `mini-os-driver-sys` | Handwritten OS kernel, driver and virtualization underlying logic | [🔗 View](https://github.com/rootkiller6788/mini-os-driver-sys) |
-| `mini-firmware-boot` | Lightweight bare-metal firmware and bootloader program development | [🔗 View](https://github.com/rootkiller6788/mini-firmware-boot) |
-| `mini-app-industry-product` | Industrial-grade embedded application development and engineering practice | [🔗 View](https://github.com/rootkiller6788/mini-app-industry-product) |
-| `mini-software-eng-product` | Bottom-up standardized software engineering system and project practice | [🔗 View](https://github.com/rootkiller6788/mini-software-eng-product) |
-| `mini-eda-fpga-asic` | EDA tool development, FPGA logic & ASIC chip underlying design | [🔗 View](https://github.com/rootkiller6788/mini-eda-fpga-asic) |
-| `mini-hpc-sci-compute` | High-performance parallel computing and scientific numerical simulation implementation | [🔗 View](https://github.com/rootkiller6788/mini-hpc-sci-compute) |
-| `mini-iot-robot-edge` | Edge computing, IoT terminal and robot underlying control system development | [🔗 View](https://github.com/rootkiller6788/mini-iot-robot-edge) |
-| `mini-ai-ml-intelligent` | From-scratch implementation of underlying machine learning and intelligent algorithm frameworks | [🔗 View](https://github.com/rootkiller6788/mini-ai-ml-intelligent) |
-| `mini-security-crypto-web3` | Underlying cryptographic algorithms, network security and Web3 core protocol implementation | [🔗 View](https://github.com/rootkiller6788/mini-security-crypto-web3) |
-| `mini-cloud-native-sre` | Cloud-native architecture, service orchestration and SRE stability governance from scratch | [🔗 View](https://github.com/rootkiller6788/mini-cloud-native-sre) |
-| `mini-media-av-rtc` | Audio and video processing, real-time RTC transmission and media service underlying logic | [🔗 View](https://github.com/rootkiller6788/mini-media-av-rtc) |
-| `mini-frontend-client-web` | Native web frontend rendering, interactive logic and client principle implementation | [🔗 View](https://github.com/rootkiller6788/mini-frontend-client-web) |
-| `mini-backend-api-business` | Backend service architecture, API interface and business logic bottom-up construction | [🔗 View](https://github.com/rootkiller6788/mini-backend-api-business) |
-| `mini-data-engine-lakehouse` | Self-built data computing engine and lakehouse architecture underlying system | [🔗 View](https://github.com/rootkiller6788/mini-data-engine-lakehouse) |
-| `mini-data-store-search-vec` | Vector database underlying storage, indexing and similarity retrieval implementation | [🔗 View](https://github.com/rootkiller6788/mini-data-store-search-vec) |
-| `mini-network-dist-proto` | Distributed network architecture and core communication protocol from scratch | [🔗 View](https://github.com/rootkiller6788/mini-network-dist-proto) |
+| Repository | Description | Reference Course & Materials | Link |
+|-----------|-------------|------------------------------|------|
+| `mini-math-theory` | University-level mathematics & computer theory for system and AI modeling | MIT 6.006/6.046J, 6.042J, 6.045J, 18.05/18.06/18.065, 6.441; Stanford CS229; Sipser Computation Theory | [🔗 View](https://github.com/rootkiller6788/mini-math-theory) |
+| `mini-hardware-physical` | Bottom-up hardware design and physical circuit implementation | MIT 6.004/6.175/6.823/6.5900/6.5930/6.5950; CMU 18-447/15-418; Stanford CS144/CS149/EE282; UC Berkeley CS261 | [🔗 View](https://github.com/rootkiller6788/mini-hardware-physical) |
+| `mini-firmware-boot` | Lightweight bare-metal firmware and bootloader program development | UEFI PI Spec, TianoCore EDK II, GRUB2, Das U-Boot, TPM 2.0 Spec, TCG PC Client, NIST SP 800-193, Intel/ARM Trusted Firmware | [🔗 View](https://github.com/rootkiller6788/mini-firmware-boot) |
+| `mini-os-driver-sys` | Handwritten OS kernel, driver and virtualization underlying logic | MIT 6.828 (xv6), CMU 15-410; Intel VT-x/AMD-V; OCI Runtime Spec; CS:APP; Linux Kernel LSM | [🔗 View](https://github.com/rootkiller6788/mini-os-driver-sys) |
+| `mini-lang-compiler-vm` | From-scratch programming language, compiler & virtual machine implementation | Stanford CS143/CS242; CMU 15-745; MIT 6.945; Dragon Book; Modern Compiler Book; MLIR/TVM/XLA | [🔗 View](https://github.com/rootkiller6788/mini-lang-compiler-vm) |
+| `mini-network-dist-proto` | Distributed network architecture and core communication protocol from scratch | MIT 6.824/6.829; Stanford CS144; CMU 15-721; Raft/Paxos Papers; DDIA; IETF RFC Standards | [🔗 View](https://github.com/rootkiller6788/mini-network-dist-proto) |
+| `mini-data-store-search-vec` | Vector database underlying storage, indexing and similarity retrieval implementation | CMU 15-445/645; MIT 6.830; Stanford CS245; FAISS/Milvus/Annoy; LevelDB/RocksDB; Lucene | [🔗 View](https://github.com/rootkiller6788/mini-data-store-search-vec) |
+| `mini-data-engine-lakehouse` | Self-built data computing engine and lakehouse architecture underlying system | Kimball DWH Toolkit, Delta Lake/Iceberg/Hudi Spec, Spark/Flink/Kafka, ClickHouse/DuckDB OLAP Theory | [🔗 View](https://github.com/rootkiller6788/mini-data-engine-lakehouse) |
+| `mini-backend-api-business` | Backend service architecture, API interface and business logic bottom-up construction | OAuth2 RFC 6749, JWT RFC 7519; DDD/CQRS/Event Sourcing; REST/GraphQL Spec | [🔗 View](https://github.com/rootkiller6788/mini-backend-api-business) |
+| `mini-frontend-client-web` | Native web frontend rendering, interactive logic and client principle implementation | W3C Specs, Chromium Blink, V8 Engine, WhatWG Fetch Standard | [🔗 View](https://github.com/rootkiller6788/mini-frontend-client-web) |
+| `mini-graphics-render-game` | Spatial computing, rendering engine & game physics loop implementation | MIT 6.837, OpenGL 4.6/Vulkan 1.3, OpenXR/WebXR, ECS Game Architecture | [🔗 View](https://github.com/rootkiller6788/mini-graphics-render-game) |
+| `mini-media-av-rtc` | Audio and video processing, real-time RTC transmission and media service underlying logic | H.264/AVC, ITU-T.81, WebRTC 1.0, HLS/DASH RFC, FFmpeg Architecture | [🔗 View](https://github.com/rootkiller6788/mini-media-av-rtc) |
+| `mini-cloud-native-sre` | Cloud-native architecture, service orchestration and SRE stability governance from scratch | Kubernetes/Borg, Istio/Envoy, OpenTelemetry, Google SRE Book, Brendan Gregg Performance Theory | [🔗 View](https://github.com/rootkiller6788/mini-cloud-native-sre) |
+| `mini-security-crypto-web3` | Underlying cryptographic algorithms, network security and Web3 core protocol implementation | NIST FIPS, MIT 6.858, OWASP Top10, zk-SNARKs, Intel SGX/AMD SEV, TCG Standards | [🔗 View](https://github.com/rootkiller6788/mini-security-crypto-web3) |
+| `mini-ai-ml-intelligent` | From-scratch implementation of underlying machine learning and intelligent algorithm frameworks | Stanford CS229, MIT 6.036; PyTorch/TensorFlow; vLLM/TensorRT-LLM; CLIP/Stable Diffusion | [🔗 View](https://github.com/rootkiller6788/mini-ai-ml-intelligent) |
+| `mini-iot-robot-edge` | Edge computing, IoT terminal and robot underlying control system development | ARM Cortex-M TRM, FreeRTOS, ROS2, TinyML, IEC 61131-3, ARM TrustZone-M | [🔗 View](https://github.com/rootkiller6788/mini-iot-robot-edge) |
+| `mini-hpc-sci-compute` | High-performance parallel computing and scientific numerical simulation implementation | MIT 6.172, Stanford CS149; CUDA/OpenMP/MPI; BLAS/LAPACK; Roofline Model | [🔗 View](https://github.com/rootkiller6788/mini-hpc-sci-compute) |
+| `mini-eda-fpga-asic` | EDA tool development, FPGA logic & ASIC chip underlying design | IEEE 1364/1800 Verilog, UVM, RISC-V ISA, Synopsys/Cadence EDA Tools, NoC Theory | [🔗 View](https://github.com/rootkiller6788/mini-eda-fpga-asic) |
+| `mini-software-eng-product` | Bottom-up standardized software engineering system and project practice | C4 Model, Conventional Commits, Clean Code, SAFe/Scrum, SonarQube Testing Standards | [🔗 View](https://github.com/rootkiller6788/mini-software-eng-product) |
+| `mini-app-industry-product` | Industrial-grade embedded application development and engineering practice | Enterprise ERP/CRM Standards, Industrial Embedded Specs, FinTech/HealthTech Engineering Norms | [🔗 View](https://github.com/rootkiller6788/mini-app-industry-product) |
 
 ---
 
