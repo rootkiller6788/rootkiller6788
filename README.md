@@ -55,6 +55,35 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 
 ---
 
+## 🧮 Mathematical Formalization & Proof Theory (`mini-*` Lean 4 Series)
+
+> **Formal mathematics built from scratch in Lean 4**. Learn rigorous mathematical theory via practical interactive theorem proving. Every definition, lemma, and theorem is machine-checked and computationally verifiable.
+
+| Repository | Description | Link |
+|-----------|-------------|------|
+| `mini-math-kernel` | Formal math foundations and proof theory built from scratch, learn mathematical logic & formal proof via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-math-kernel) |
+| `mini-set-model-theory` | Set theory and model theory built from scratch, learn formal logic & set foundation via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-set-model-theory) |
+| `mini-category-theory` | Category theory and functorial mathematics built from scratch, learn categorical reasoning via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-category-theory) |
+| `mini-linear-multilinear-algebra` | Linear and multilinear algebra built from scratch, learn vector space & tensor theory via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-linear-multilinear-algebra) |
+| `mini-abstract-algebra-galois` | Abstract algebra and Galois theory built from scratch, learn group/ring/field theory via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-abstract-algebra-galois) |
+| `mini-commutative-homological-algebra` | Commutative and homological algebra built from scratch, learn advanced algebraic theory via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-commutative-homological-algebra) |
+| `mini-real-analysis` | Real analysis and calculus foundations built from scratch, learn rigorous mathematical analysis via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-real-analysis) |
+| `mini-complex-analysis-riemann` | Complex analysis and Riemann surfaces built from scratch, learn holomorphic theory via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-complex-analysis-riemann) |
+| `mini-measure-probability-integration` | Measure theory, probability and integration built from scratch, learn analysis & stochastic theory via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-measure-probability-integration) |
+| `mini-functional-analysis-operator` | Functional analysis and operator theory built from scratch, learn spectral algebra & operator theory via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-functional-analysis-operator) |
+| `mini-point-set-topology` | Point-set topology built from scratch, learn topological foundations via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-point-set-topology) |
+| `mini-smooth-manifold-diff-topology` | Smooth manifold and differential topology built from scratch, learn manifold calculus via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-smooth-manifold-diff-topology) |
+| `mini-differential-riemannian-geometry` | Differential and Riemannian geometry built from scratch, learn manifold & curvature theory via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-differential-riemannian-geometry) |
+| `mini-algebraic-topology` | Algebraic topology and homotopy theory built from scratch, learn homology-cohomology via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-algebraic-topology) |
+| `mini-algebraic-geometry-schemes` | Algebraic geometry and scheme theory built from scratch, learn modern algebraic geometry via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-algebraic-geometry-schemes) |
+| `mini-number-theory-arithmetic-geometry` | Number theory and arithmetic geometry built from scratch, learn arithmetic foundations via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-number-theory-arithmetic-geometry) |
+| `mini-representation-lie-theory` | Representation theory and Lie theory built from scratch, learn algebraic symmetry via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-representation-lie-theory) |
+| `mini-combinatorics-discrete-geometry` | Combinatorics and discrete geometry built from scratch, learn graph theory & discrete mathematics via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-combinatorics-discrete-geometry) |
+| `mini-dynamical-ergodic-systems` | Dynamical systems and ergodic theory built from scratch, learn chaotic & Hamiltonian dynamics via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-dynamical-ergodic-systems) |
+| `mini-harmonic-pde-geometric-analysis` | Harmonic analysis, PDE and geometric analysis built from scratch, learn partial differential equations via practical Lean 4 coding | [🔗 View](https://github.com/rootkiller6788/mini-harmonic-pde-geometric-analysis) |
+
+---
+
 ## 🤖 LLM Architecture & AI Engineering Systems
 
 > Focus on large model architecture inference, kernel optimization, automated research, and multi-agent engineering workflows.
