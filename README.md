@@ -1,6 +1,6 @@
 # 👋 Hi, I'm rootkiller6788
 
-> **Architecting self-evolving AI systems** at the intersection of *Evolution Core*, *Governance & Verification*, *Mathematical Framing*, and *System Architecture*.
+> *Developing closed-loop mathematical ontology systems and first-principles AI foundations through type-theoretic structures, semantic fields, formal verification, and computational architecture.*.
 
 [![GitHub](https://img.shields.io/badge/GitHub-rootkiller6788-181717?logo=github&logoColor=white)](https://github.com/rootkiller6788)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
