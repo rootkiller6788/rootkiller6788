@@ -9,52 +9,6 @@
 
 ---
 
-## 🎯 Why I Build in Public
-
-I build technology **from bare-metal scratch** — no framework shortcuts, no encapsulated black boxes. All implementations are hand-coded, verifiable, and open-sourced permanently.
-
-> Most engineers build *on* existing stacks.  
-> I reconstruct *the underlying stack itself*: from mathematical theory, hardware circuits, and low-level system firmware, up to LLM underlying architecture, CUDA kernel optimization, and verifiable self-evolving agent systems.
-
-This repository archive records continuous **bottom-up engineering** and **AI paradigm exploration**. Every project is:
-- ✅ Runnable
-- ✅ Verifiable  
-- ✅ Serves as practical prior art for underlying system and intelligent infrastructure research
-
-> *"Open source is not a hobby, but a public technical manifesto of full-stack underlying engineering."*  
-> **Long live ❤️ Open Source.**
-
----
-
-## 🔧 Bare-Metal Full-Stack Foundation (`mini-*` Series)
-
-> Full coverage of the entire computer technology stack, **100% pure C implemented from scratch**. Rigorous bottom-up construction to verify the underlying core principles of all hardware, system, network, business and intelligent technologies.
-
-| Repository | Description | Reference Course & Materials | Link |
-|-----------|-------------|------------------------------|------|
-| `mini-math-theory` | University-level mathematics & computer theory for system and AI modeling | MIT 6.006/6.046J, 6.042J, 6.045J, 18.05/18.06/18.065, 6.441; Stanford CS229; Sipser Computation Theory | [🔗 View](https://github.com/rootkiller6788/mini-math-theory) |
-| `mini-hardware-physical` | Bottom-up hardware design and physical circuit implementation | MIT 6.004/6.175/6.823/6.5900/6.5930/6.5950; CMU 18-447/15-418; Stanford CS144/CS149/EE282; UC Berkeley CS261 | [🔗 View](https://github.com/rootkiller6788/mini-hardware-physical) |
-| `mini-firmware-boot` | Lightweight bare-metal firmware and bootloader program development | UEFI PI Spec, TianoCore EDK II, GRUB2, Das U-Boot, TPM 2.0 Spec, TCG PC Client, NIST SP 800-193, Intel/ARM Trusted Firmware | [🔗 View](https://github.com/rootkiller6788/mini-firmware-boot) |
-| `mini-os-driver-sys` | Handwritten OS kernel, driver and virtualization underlying logic | MIT 6.828 (xv6), CMU 15-410; Intel VT-x/AMD-V; OCI Runtime Spec; CS:APP; Linux Kernel LSM | [🔗 View](https://github.com/rootkiller6788/mini-os-driver-sys) |
-| `mini-lang-compiler-vm` | From-scratch programming language, compiler & virtual machine implementation | Stanford CS143/CS242; CMU 15-745; MIT 6.945; Dragon Book; Modern Compiler Book; MLIR/TVM/XLA | [🔗 View](https://github.com/rootkiller6788/mini-lang-compiler-vm) |
-| `mini-network-dist-proto` | Distributed network architecture and core communication protocol from scratch | MIT 6.824/6.829; Stanford CS144; CMU 15-721; Raft/Paxos Papers; DDIA; IETF RFC Standards | [🔗 View](https://github.com/rootkiller6788/mini-network-dist-proto) |
-| `mini-data-store-search-vec` | Vector database underlying storage, indexing and similarity retrieval implementation | CMU 15-445/645; MIT 6.830; Stanford CS245; FAISS/Milvus/Annoy; LevelDB/RocksDB; Lucene | [🔗 View](https://github.com/rootkiller6788/mini-data-store-search-vec) |
-| `mini-data-engine-lakehouse` | Self-built data computing engine and lakehouse architecture underlying system | Kimball DWH Toolkit, Delta Lake/Iceberg/Hudi Spec, Spark/Flink/Kafka, ClickHouse/DuckDB OLAP Theory | [🔗 View](https://github.com/rootkiller6788/mini-data-engine-lakehouse) |
-| `mini-backend-api-business` | Backend service architecture, API interface and business logic bottom-up construction | OAuth2 RFC 6749, JWT RFC 7519; DDD/CQRS/Event Sourcing; REST/GraphQL Spec | [🔗 View](https://github.com/rootkiller6788/mini-backend-api-business) |
-| `mini-frontend-client-web` | Native web frontend rendering, interactive logic and client principle implementation | W3C Specs, Chromium Blink, V8 Engine, WhatWG Fetch Standard | [🔗 View](https://github.com/rootkiller6788/mini-frontend-client-web) |
-| `mini-graphics-render-game` | Spatial computing, rendering engine & game physics loop implementation | MIT 6.837, OpenGL 4.6/Vulkan 1.3, OpenXR/WebXR, ECS Game Architecture | [🔗 View](https://github.com/rootkiller6788/mini-graphics-render-game) |
-| `mini-media-av-rtc` | Audio and video processing, real-time RTC transmission and media service underlying logic | H.264/AVC, ITU-T.81, WebRTC 1.0, HLS/DASH RFC, FFmpeg Architecture | [🔗 View](https://github.com/rootkiller6788/mini-media-av-rtc) |
-| `mini-cloud-native-sre` | Cloud-native architecture, service orchestration and SRE stability governance from scratch | Kubernetes/Borg, Istio/Envoy, OpenTelemetry, Google SRE Book, Brendan Gregg Performance Theory | [🔗 View](https://github.com/rootkiller6788/mini-cloud-native-sre) |
-| `mini-security-crypto-web3` | Underlying cryptographic algorithms, network security and Web3 core protocol implementation | NIST FIPS, MIT 6.858, OWASP Top10, zk-SNARKs, Intel SGX/AMD SEV, TCG Standards | [🔗 View](https://github.com/rootkiller6788/mini-security-crypto-web3) |
-| `mini-ai-ml-intelligent` | From-scratch implementation of underlying machine learning and intelligent algorithm frameworks | Stanford CS229, MIT 6.036; PyTorch/TensorFlow; vLLM/TensorRT-LLM; CLIP/Stable Diffusion | [🔗 View](https://github.com/rootkiller6788/mini-ai-ml-intelligent) |
-| `mini-iot-robot-edge` | Edge computing, IoT terminal and robot underlying control system development | ARM Cortex-M TRM, FreeRTOS, ROS2, TinyML, IEC 61131-3, ARM TrustZone-M | [🔗 View](https://github.com/rootkiller6788/mini-iot-robot-edge) |
-| `mini-hpc-sci-compute` | High-performance parallel computing and scientific numerical simulation implementation | MIT 6.172, Stanford CS149; CUDA/OpenMP/MPI; BLAS/LAPACK; Roofline Model | [🔗 View](https://github.com/rootkiller6788/mini-hpc-sci-compute) |
-| `mini-eda-fpga-asic` | EDA tool development, FPGA logic & ASIC chip underlying design | IEEE 1364/1800 Verilog, UVM, RISC-V ISA, Synopsys/Cadence EDA Tools, NoC Theory | [🔗 View](https://github.com/rootkiller6788/mini-eda-fpga-asic) |
-| `mini-software-eng-product` | Bottom-up standardized software engineering system and project practice | C4 Model, Conventional Commits, Clean Code, SAFe/Scrum, SonarQube Testing Standards | [🔗 View](https://github.com/rootkiller6788/mini-software-eng-product) |
-| `mini-app-industry-product` | Industrial-grade embedded application development and engineering practice | Enterprise ERP/CRM Standards, Industrial Embedded Specs, FinTech/HealthTech Engineering Norms | [🔗 View](https://github.com/rootkiller6788/mini-app-industry-product) |
-
----
-
 ## 🧮 Mathematical Formalization & Proof Theory (`mini-*` Lean 4 Series)
 
 > **Formal mathematics built from scratch in Lean 4**. Learn rigorous mathematical theory via practical interactive theorem proving. Every definition, lemma, and theorem is machine-checked and computationally verifiable.
@@ -83,6 +37,63 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-harmonic-pde-geometric-analysis` | Harmonic analysis, PDE and geometric analysis built from scratch, learn partial differential equations via practical Lean 4 coding | MIT 18.152, 18.155, 18.156, 18.157, 18.158, 18.354; Harvard Math 253; Princeton MAT 528, 535; Berkeley Math 222, 228; Cambridge Part III; Oxford Part C; *Partial Differential Equations* (Evans), *Harmonic Analysis* (Stein) | [🔗 View](https://github.com/rootkiller6788/mini-harmonic-pde-geometric-analysis) |
 
 ---
+
+---
+
+## [TOC] Theory of Computation Foundations (`mini-*` Series)
+
+> **Fundamental results in theoretical computer science built from scratch in zero-dependency C**. Covering complexity theory, cryptography, quantum computation, distributed computing, and learning theory from first principles — all algorithms implemented and verifiable.
+
+| Repository | Description | Reference Course & Materials | Link |
+|-----------|-------------|------------------------------|------|
+| `mini-complexity-foundations` | Computational complexity foundations built from scratch, learn P/NP, Cook-Levin theorem, polynomial hierarchy & Ladner theorem via practical C coding | MIT 6.045J, 6.841; CMU 15-855; Sipser, Arora-Barak | [View](https://github.com/rootkiller6788/mini-complexity-foundations) |
+| `mini-circuit-complexity` | Circuit complexity built from scratch, learn boolean circuits, AC0/NC hierarchy, circuit SAT, ACC0 & lower bounds via practical C coding | MIT 6.841, 6.845; Arora-Barak | [View](https://github.com/rootkiller6788/mini-circuit-complexity) |
+| `mini-randomized-derandomization` | Randomized algorithms & derandomization built from scratch, learn BPP/ZPP, expander graphs, hardness-vs-randomness via practical C coding | MIT 6.045, 6.841; CMU 15-855; Arora-Barak, Goldreich | [View](https://github.com/rootkiller6788/mini-randomized-derandomization) |
+| `mini-pcp-inapproximability` | PCP theorem & inapproximability built from scratch, learn PCP verifiers, gap amplification, label cover & hardness of approximation via practical C coding | MIT 6.841, 6.845, 6.854; CMU 15-859; Arora | [View](https://github.com/rootkiller6788/mini-pcp-inapproximability) |
+| `mini-communication-complexity` | Communication complexity built from scratch, learn deterministic/nondeterministic protocols, lifting theorems & information complexity via practical C coding | MIT 6.845, 6.895; CMU 15-859; Princeton CS 522 | [View](https://github.com/rootkiller6788/mini-communication-complexity) |
+| `mini-proof-complexity` | Proof complexity built from scratch, learn Frege/extended Frege systems, cutting planes, algebraic proofs & lower bounds via practical C coding | MIT 6.841; CMU 15-855; Princeton COS 522, 551; Cambridge Part III | [View](https://github.com/rootkiller6788/mini-proof-complexity) |
+| `mini-fine-grained-complexity` | Fine-grained complexity built from scratch, learn SETH/3SUM/APSP conjectures, conditional lower bounds & equivalence classes via practical C coding | MIT 6.8410, 6.8420 | [View](https://github.com/rootkiller6788/mini-fine-grained-complexity) |
+| `mini-parameterized-complexity` | Parameterized complexity built from scratch, learn FPT tractability, W-hierarchy, Courcelle theorem & bidimensionality via practical C coding | MIT 6.890; CMU 15-751 | [View](https://github.com/rootkiller6788/mini-parameterized-complexity) |
+| `mini-descriptive-complexity` | Descriptive complexity built from scratch, learn Fagin theorem, Ehrenfeucht-Fraisse games, fixpoint logic & finite model theory via practical C coding | MIT 18.504, 18.510, 6.5830, 6.8410; Stanford CS 254 | [View](https://github.com/rootkiller6788/mini-descriptive-complexity) |
+| `mini-algorithmic-info-theory` | Algorithmic information theory built from scratch, learn Kolmogorov complexity, incompressibility method, Chaitin omega & algorithmic randomness via practical C coding | MIT 6.441, 6.841; CMU 15-751, 15-855; Cambridge Part III | [View](https://github.com/rootkiller6788/mini-algorithmic-info-theory) |
+| `mini-crypto-foundations-1-owf-prg` | Foundations of cryptography: OWF & PRG built from scratch, learn one-way functions, Goldreich-Levin hardcore bit, PRGs & hybrid arguments via practical C coding | MIT 6.875; Princeton COS 433, 522; Goldreich; Arora-Barak | [View](https://github.com/rootkiller6788/mini-crypto-foundations-1-owf-prg) |
+| `mini-crypto-foundations-2-zk-proofs` | Foundations of cryptography: zero-knowledge proofs built from scratch, learn interactive proofs, GMR/GMW protocols & commitment schemes via practical C coding | MIT 6.845, 6.875, 6.876; Princeton COS 522; Goldreich | [View](https://github.com/rootkiller6788/mini-crypto-foundations-2-zk-proofs) |
+| `mini-crypto-foundations-3-mpc` | Foundations of cryptography: secure multi-party computation built from scratch, learn Yao garbled circuits, GMW/BGW/CCD protocols via practical C coding | MIT 6.876; Goldreich | [View](https://github.com/rootkiller6788/mini-crypto-foundations-3-mpc) |
+| `mini-crypto-foundations-4-fhe-io` | Foundations of cryptography: FHE & IO built from scratch, learn fully homomorphic encryption, bootstrapping, functional encryption & ABE via practical C coding | MIT 6.876; Goldreich; Arora | [View](https://github.com/rootkiller6788/mini-crypto-foundations-4-fhe-io) |
+| `mini-crypto-foundations-5-post-quantum` | Foundations of cryptography: post-quantum crypto built from scratch, learn lattice/code/hash/isogeny-based schemes & hybrid key exchange via practical C coding | MIT 6.845, 6.875, 6.876; CMU 15-855; Oxford Advanced C | [View](https://github.com/rootkiller6788/mini-crypto-foundations-5-post-quantum) |
+| `mini-quantum-computation-1-circuits` | Quantum computation I: circuits built from scratch, learn quantum circuit model, Grover search, phase estimation & HHL algorithm via practical C coding | MIT 6.845; CMU 15-859; Caltech CS 154; Oxford Advanced C; Arora | [View](https://github.com/rootkiller6788/mini-quantum-computation-1-circuits) |
+| `mini-quantum-computation-2-complexity` | Quantum computation II: complexity built from scratch, learn BQP class, QMA/QIP=PSPACE, boson sampling & post-quantum separations via practical C coding | MIT 6.845, 6.875; Caltech CS 154 | [View](https://github.com/rootkiller6788/mini-quantum-computation-2-complexity) |
+| `mini-distributed-computing-theory` | Distributed computing theory built from scratch, learn FLP impossibility, Byzantine agreement, consensus & fault-tolerant lower bounds via practical C coding | MIT 6.841, 6.852; CMU 15-712, 15-855; Cambridge Part III | [View](https://github.com/rootkiller6788/mini-distributed-computing-theory) |
+| `mini-computational-learning-theory` | Computational learning theory built from scratch, learn PAC model, VC dimension, online learning, boosting & differential privacy via practical C coding | MIT 6.860; CMU 10-715, 15-859; Princeton COS 511 | [View](https://github.com/rootkiller6788/mini-computational-learning-theory) |
+| `mini-reactive-verification-synthesis` | Reactive verification & synthesis built from scratch, learn LTL/CTL model checking, Buchi automata & GR(1) synthesis via practical C coding | MIT 6.841; CMU 15-414, 18-760 | [View](https://github.com/rootkiller6788/mini-reactive-verification-synthesis) |
+
+
+## 🔧 Bare-Metal Full-Stack Foundation (`mini-*` Series)
+
+> Full coverage of the entire computer technology stack, **100% pure C implemented from scratch**. Rigorous bottom-up construction to verify the underlying core principles of all hardware, system, network, business and intelligent technologies.
+
+| Repository | Description | Reference Course & Materials | Link |
+|-----------|-------------|------------------------------|------|
+| `mini-math-theory` | University-level mathematics & computer theory for system and AI modeling | MIT 6.006/6.046J, 6.042J, 6.045J, 18.05/18.06/18.065, 6.441; Stanford CS229; Sipser Computation Theory | [🔗 View](https://github.com/rootkiller6788/mini-math-theory) |
+| `mini-hardware-physical` | Bottom-up hardware design and physical circuit implementation | MIT 6.004/6.175/6.823/6.5900/6.5930/6.5950; CMU 18-447/15-418; Stanford CS144/CS149/EE282; UC Berkeley CS261 | [🔗 View](https://github.com/rootkiller6788/mini-hardware-physical) |
+| `mini-firmware-boot` | Lightweight bare-metal firmware and bootloader program development | UEFI PI Spec, TianoCore EDK II, GRUB2, Das U-Boot, TPM 2.0 Spec, TCG PC Client, NIST SP 800-193, Intel/ARM Trusted Firmware | [🔗 View](https://github.com/rootkiller6788/mini-firmware-boot) |
+| `mini-os-driver-sys` | Handwritten OS kernel, driver and virtualization underlying logic | MIT 6.828 (xv6), CMU 15-410; Intel VT-x/AMD-V; OCI Runtime Spec; CS:APP; Linux Kernel LSM | [🔗 View](https://github.com/rootkiller6788/mini-os-driver-sys) |
+| `mini-lang-compiler-vm` | From-scratch programming language, compiler & virtual machine implementation | Stanford CS143/CS242; CMU 15-745; MIT 6.945; Dragon Book; Modern Compiler Book; MLIR/TVM/XLA | [🔗 View](https://github.com/rootkiller6788/mini-lang-compiler-vm) |
+| `mini-network-dist-proto` | Distributed network architecture and core communication protocol from scratch | MIT 6.824/6.829; Stanford CS144; CMU 15-721; Raft/Paxos Papers; DDIA; IETF RFC Standards | [🔗 View](https://github.com/rootkiller6788/mini-network-dist-proto) |
+| `mini-data-store-search-vec` | Vector database underlying storage, indexing and similarity retrieval implementation | CMU 15-445/645; MIT 6.830; Stanford CS245; FAISS/Milvus/Annoy; LevelDB/RocksDB; Lucene | [🔗 View](https://github.com/rootkiller6788/mini-data-store-search-vec) |
+| `mini-data-engine-lakehouse` | Self-built data computing engine and lakehouse architecture underlying system | Kimball DWH Toolkit, Delta Lake/Iceberg/Hudi Spec, Spark/Flink/Kafka, ClickHouse/DuckDB OLAP Theory | [🔗 View](https://github.com/rootkiller6788/mini-data-engine-lakehouse) |
+| `mini-backend-api-business` | Backend service architecture, API interface and business logic bottom-up construction | OAuth2 RFC 6749, JWT RFC 7519; DDD/CQRS/Event Sourcing; REST/GraphQL Spec | [🔗 View](https://github.com/rootkiller6788/mini-backend-api-business) |
+| `mini-frontend-client-web` | Native web frontend rendering, interactive logic and client principle implementation | W3C Specs, Chromium Blink, V8 Engine, WhatWG Fetch Standard | [🔗 View](https://github.com/rootkiller6788/mini-frontend-client-web) |
+| `mini-graphics-render-game` | Spatial computing, rendering engine & game physics loop implementation | MIT 6.837, OpenGL 4.6/Vulkan 1.3, OpenXR/WebXR, ECS Game Architecture | [🔗 View](https://github.com/rootkiller6788/mini-graphics-render-game) |
+| `mini-media-av-rtc` | Audio and video processing, real-time RTC transmission and media service underlying logic | H.264/AVC, ITU-T.81, WebRTC 1.0, HLS/DASH RFC, FFmpeg Architecture | [🔗 View](https://github.com/rootkiller6788/mini-media-av-rtc) |
+| `mini-cloud-native-sre` | Cloud-native architecture, service orchestration and SRE stability governance from scratch | Kubernetes/Borg, Istio/Envoy, OpenTelemetry, Google SRE Book, Brendan Gregg Performance Theory | [🔗 View](https://github.com/rootkiller6788/mini-cloud-native-sre) |
+| `mini-security-crypto-web3` | Underlying cryptographic algorithms, network security and Web3 core protocol implementation | NIST FIPS, MIT 6.858, OWASP Top10, zk-SNARKs, Intel SGX/AMD SEV, TCG Standards | [🔗 View](https://github.com/rootkiller6788/mini-security-crypto-web3) |
+| `mini-ai-ml-intelligent` | From-scratch implementation of underlying machine learning and intelligent algorithm frameworks | Stanford CS229, MIT 6.036; PyTorch/TensorFlow; vLLM/TensorRT-LLM; CLIP/Stable Diffusion | [🔗 View](https://github.com/rootkiller6788/mini-ai-ml-intelligent) |
+| `mini-iot-robot-edge` | Edge computing, IoT terminal and robot underlying control system development | ARM Cortex-M TRM, FreeRTOS, ROS2, TinyML, IEC 61131-3, ARM TrustZone-M | [🔗 View](https://github.com/rootkiller6788/mini-iot-robot-edge) |
+| `mini-hpc-sci-compute` | High-performance parallel computing and scientific numerical simulation implementation | MIT 6.172, Stanford CS149; CUDA/OpenMP/MPI; BLAS/LAPACK; Roofline Model | [🔗 View](https://github.com/rootkiller6788/mini-hpc-sci-compute) |
+| `mini-eda-fpga-asic` | EDA tool development, FPGA logic & ASIC chip underlying design | IEEE 1364/1800 Verilog, UVM, RISC-V ISA, Synopsys/Cadence EDA Tools, NoC Theory | [🔗 View](https://github.com/rootkiller6788/mini-eda-fpga-asic) |
+| `mini-software-eng-product` | Bottom-up standardized software engineering system and project practice | C4 Model, Conventional Commits, Clean Code, SAFe/Scrum, SonarQube Testing Standards | [🔗 View](https://github.com/rootkiller6788/mini-software-eng-product) |
+| `mini-app-industry-product` | Industrial-grade embedded application development and engineering practice | Enterprise ERP/CRM Standards, Industrial Embedded Specs, FinTech/HealthTech Engineering Norms | [🔗 View](https://github.com/rootkiller6788/mini-app-industry-product) |
 
 ---
 
@@ -130,6 +141,64 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-eng-reaction-engineering` | Reaction engineering built from scratch, learn CSTR/PFR/batch reactors, Arrhenius kinetics, catalysis & combustion via practical C coding | MIT 10.37, 10.542; Stanford CME 330 | [View](https://github.com/rootkiller6788/mini-eng-reaction-engineering) |
 
 
+## [ELEC] Electronic Information Engineering (`mini-*` Series)
+
+> **Electronic and information engineering built from scratch in zero-dependency C.** From signal/system theory, analog/digital circuits, MCU embedded systems, communication principles, DSP, electromagnetics, power electronics, PCB design to IoT, fiber optics, radar, navigation, and manufacturing test.
+
+| Repository | Description | Reference Course & Materials | Link |
+|-----------|-------------|------------------------------|------|
+| `mini-signal-system-theory` | Signal and system theory built from scratch, learn continuous/discrete signals, Fourier/Laplace/Z transforms, sampling & filter theory via practical C coding | MIT 6.003, 6.341, 6.435, 6.450 | [View](https://github.com/rootkiller6788/mini-signal-system-theory) |
+| `mini-circuit-analysis` | Circuit analysis built from scratch, learn KVL/KCL, nodal/mesh analysis, Thevenin/Norton, transient response & AC steady-state via practical C coding | MIT 6.002, 6.003, 6.061 | [View](https://github.com/rootkiller6788/mini-circuit-analysis) |
+| `mini-analog-electronics` | Analog electronics built from scratch, learn diodes, BJT/MOSFET amplifiers, op-amp circuits, active filters & oscillators via practical C coding | MIT 6.002, 6.775 | [View](https://github.com/rootkiller6788/mini-analog-electronics) |
+| `mini-digital-electronics` | Digital electronics built from scratch, learn logic gates, combinational/sequential circuits, FPGAs, VHDL/Verilog & state machines via practical C coding | MIT 6.004, 6.205; IEEE 1164 | [View](https://github.com/rootkiller6788/mini-digital-electronics) |
+| `mini-mcu-embedded-sys` | MCU embedded systems built from scratch, learn ARM Cortex-M, RTOS, peripheral drivers, low-power design & firmware architecture via practical C coding | MIT 6.003, 6.004, 6.2050; Cambridge CST I | [View](https://github.com/rootkiller6788/mini-mcu-embedded-sys) |
+| `mini-communication-principle` | Communication principles built from scratch, learn AM/FM/PM modulation, digital modulation, channel coding, OFDM & MIMO via practical C coding | MIT 6.441, 6.450, 6.451, 6.452 | [View](https://github.com/rootkiller6788/mini-communication-principle) |
+| `mini-digital-signal-process` | Digital signal processing built from scratch, learn DFT/FFT, FIR/IIR filters, multirate DSP, adaptive filters & spectral analysis via practical C coding | MIT 6.003, 6.011, 6.341, 6.432, 6.555 | [View](https://github.com/rootkiller6788/mini-digital-signal-process) |
+| `mini-electromagnetic-wave` | Electromagnetic wave theory built from scratch, learn Maxwell equations, plane waves, waveguides, antennas & EM interference via practical C coding | MIT 6.630 | [View](https://github.com/rootkiller6788/mini-electromagnetic-wave) |
+| `mini-sensor-measurement` | Sensor and measurement technology built from scratch, learn transducers, signal conditioning, ADC/DAC, calibration & measurement uncertainty via practical C coding | MIT 6.003, 6.301, 6.555, 6.630, 16.485 | [View](https://github.com/rootkiller6788/mini-sensor-measurement) |
+| `mini-control-automation` | Control and automation electronics built from scratch, learn feedback control, motor drives, PLC interfacing & industrial automation via practical C coding | MIT 16.30, 6.02; IEC 61131, 61158; ISA-18 | [View](https://github.com/rootkiller6788/mini-control-automation) |
+| `mini-power-electronics` | Power electronics built from scratch, learn DC-DC converters, inverters, rectifiers, power semiconductors & grid integration via practical C coding | MIT 6.334; IEEE 519, 1547 | [View](https://github.com/rootkiller6788/mini-power-electronics) |
+| `mini-wireless-mobile-comm` | Wireless and mobile communications built from scratch, learn cellular systems, MIMO, channel modeling, OFDMA & 5G NR via practical C coding | MIT 6.450, 6.829, 6.875; IEEE 802 | [View](https://github.com/rootkiller6788/mini-wireless-mobile-comm) |
+| `mini-optical-fiber-comm` | Optical fiber communications built from scratch, learn fiber modes, dispersion, EDFA, WDM, coherent detection & optical networking via practical C coding | Stanford EE 247, 347; IEEE 802 | [View](https://github.com/rootkiller6788/mini-optical-fiber-comm) |
+| `mini-radar-remote-sensing` | Radar and remote sensing built from scratch, learn radar equation, SAR, Doppler processing, target detection & clutter rejection via practical C coding | MIT 6.630, 12.710, 16.851, 22.071 | [View](https://github.com/rootkiller6788/mini-radar-remote-sensing) |
+| `mini-navigation-positioning` | Navigation and positioning built from scratch, learn GPS/GNSS, INS, Kalman integration, PTP/IEEE 1588 & sensor fusion via practical C coding | MIT 16.485, 16.687; CMU 16-833; IEEE 802, 1588 | [View](https://github.com/rootkiller6788/mini-navigation-positioning) |
+| `mini-iot-edge-computing` | IoT and edge computing built from scratch, learn MQTT/CoAP, edge analytics, OPC UA, digital twins & industrial IoT via practical C coding | MIT 2.830; CMU 18-730; IEC 62443, 62541; ISA-95 | [View](https://github.com/rootkiller6788/mini-iot-edge-computing) |
+| `mini-industrial-fieldbus` | Industrial fieldbus systems built from scratch, learn PROFIBUS, EtherCAT, CANopen, IO-Link & wireless HART via practical C coding | IEC 61158, 61784, 62541, 62591; IEEE 802 | [View](https://github.com/rootkiller6788/mini-industrial-fieldbus) |
+| `mini-audio-video-eng` | Audio and video engineering built from scratch, learn codecs, streaming, compression, image processing & multimedia systems via practical C coding | MIT 6.003, 6.344, 6.450, 6.829 | [View](https://github.com/rootkiller6788/mini-audio-video-eng) |
+| `mini-emc-signal-integrity` | EMC and signal integrity built from scratch, learn crosstalk, impedance matching, PDN design, grounding & shielding via practical C coding | MIT 6.630; IEC 61000 | [View](https://github.com/rootkiller6788/mini-emc-signal-integrity) |
+| `mini-electronic-mfg-test` | Electronic manufacturing and test built from scratch, learn JTAG/boundary scan, ATE, flying probe, functional test & DFT via practical C coding | MIT 2.830J, 3.155J, 6.002, 6.004; IEEE 1149 | [View](https://github.com/rootkiller6788/mini-electronic-mfg-test) |
+| `mini-pcb-design-layout` | PCB design and layout built from scratch, learn stackup, impedance control, high-speed routing, DFM & thermal management via practical C coding | MIT 6.002, 6.630, 6.776; CMU 15-462 | [View](https://github.com/rootkiller6788/mini-pcb-design-layout) |
+| `mini-power-supply-design-practice` | Power supply design practice built from scratch, learn SMPS, LDO, magnetics design, feedback compensation & EMI compliance via practical C coding | MIT 6.301, 6.334, 6.622 | [View](https://github.com/rootkiller6788/mini-power-supply-design-practice) |
+| `mini-electronic-measurement-instr` | Electronic measurement and instrumentation built from scratch, learn DMM, oscilloscope, spectrum analyzer, VNA & TDR via practical C coding | MIT 6.003, 6.004, 6.111, 6.301, 6.450 | [View](https://github.com/rootkiller6788/mini-electronic-measurement-instr) |
+| `mini-smt-soldering-assembly` | SMT soldering and assembly built from scratch, learn reflow, stencil printing, AOI, X-ray inspection & ESD control via practical C coding | MIT 2.008; IEC 61340 | [View](https://github.com/rootkiller6788/mini-smt-soldering-assembly) |
+| `mini-signal-integrity-measurement` | Signal integrity measurement built from scratch, learn eye diagram, jitter, BER, TDR/VNA measurement & compliance testing via practical C coding | MIT 6.630, 6.642, 6.776; IEEE 370, 2414 | [View](https://github.com/rootkiller6788/mini-signal-integrity-measurement) |
+| `mini-emc-emi-test-practice` | EMC and EMI test practice built from scratch, learn conducted/radiated emissions, immunity, ESD testing & pre-compliance via practical C coding | IEC 61000 | [View](https://github.com/rootkiller6788/mini-emc-emi-test-practice) |
+| `mini-mcu-dev-board-design` | MCU development board design built from scratch, learn schematic design, BOM optimization, bootloader & hardware debugging via practical C coding | MIT 6.002, 6.004, 6.S082 | [View](https://github.com/rootkiller6788/mini-mcu-dev-board-design) |
+| `mini-rf-circuit-debugging` | RF circuit debugging built from scratch, learn matching network tuning, S-parameter measurement, spectrum analysis & noise figure via practical C coding | MIT 6.02, 6.630, 6.776 | [View](https://github.com/rootkiller6788/mini-rf-circuit-debugging) |
+| `mini-sensor-interface-circuit` | Sensor interface circuits built from scratch, learn Wheatstone bridge, instrumentation amplifier, ADC driver, isolation & 4-20mA loop via practical C coding | MIT 2.171, 6.002, 6.003; IEC 60747; ISA-50 | [View](https://github.com/rootkiller6788/mini-sensor-interface-circuit) |
+| `mini-motor-drive-power-practice` | Motor drive power practice built from scratch, learn BLDC control, FOC, inverter design, current sensing & protection via practical C coding | MIT 2.004, 6.131, 6.310, 6.622 | [View](https://github.com/rootkiller6788/mini-motor-drive-power-practice) |
+
+
+## [AUTO] Automation Theory (`mini-*` Series)
+
+> **Classical and modern automation theory built from scratch in zero-dependency C.** From control mathematics and system modeling through time/frequency domain analysis, root locus, state-space theory, Kalman estimation to industrial application systems.
+
+| Repository | Description | Reference Course & Materials | Link |
+|-----------|-------------|------------------------------|------|
+| `mini-control-mathematics` | Control mathematics built from scratch, learn complex analysis, Laplace/Z transforms, ODEs, linear algebra & numerical methods via practical C coding | MIT 18.03, 18.04, 18.335; Kalman; Lyapunov | [View](https://github.com/rootkiller6788/mini-control-mathematics) |
+| `mini-system-modeling` | System modeling built from scratch, learn transfer functions, block diagrams, mechanical/electrical/fluid-thermal & mechatronic modeling via practical C coding | MIT 2.003, 2.004; ETH 151-0591; Bode; Hurwitz | [View](https://github.com/rootkiller6788/mini-system-modeling) |
+| `mini-time-domain-analysis` | Time domain analysis built from scratch, learn impulse/step response, second-order systems, higher-order reduction & sensitivity analysis via practical C coding | MIT 6.241J; Caltech CDS 110; ETH 227-0216; Bode; Hurwitz | [View](https://github.com/rootkiller6788/mini-time-domain-analysis) |
+| `mini-root-locus-method` | Root locus method built from scratch, learn Evans root locus, lead/lag design, parameter variation & multiloop root locus via practical C coding | MIT 6.241J, 6.302, 16.30, 2.737; Hurwitz | [View](https://github.com/rootkiller6788/mini-root-locus-method) |
+| `mini-frequency-domain` | Frequency domain analysis built from scratch, learn Bode plots, Nyquist stability, gain/phase margin & bandwidth design via practical C coding | MIT 6.302; Caltech CDS 110; ETH 151-0563; Bode; Nichols | [View](https://github.com/rootkiller6788/mini-frequency-domain) |
+| `mini-classical-compensator` | Classical compensator design built from scratch, learn lead/lag compensation, feedforward control & cascade control via practical C coding | MIT 6.302; Caltech CDS 110; ETH 151-0591; Bode; Nichols | [View](https://github.com/rootkiller6788/mini-classical-compensator) |
+| `mini-state-space-theory` | State-space theory built from scratch, learn controllability, observability, canonical forms & minimal realization via practical C coding | MIT 6.241J, 16.30, 2.151; Kalman | [View](https://github.com/rootkiller6788/mini-state-space-theory) |
+| `mini-pole-placement-observer` | Pole placement & observer design built from scratch, learn full-order/reduced-order observers, Luenberger observer & separation principle via practical C coding | MIT 6.241J, 16.30, 16.31; Stanford AA 203; Lyapunov | [View](https://github.com/rootkiller6788/mini-pole-placement-observer) |
+| `mini-kalman-estimation` | Kalman estimation built from scratch, learn discrete/continuous/extended Kalman filter, particle filter & state estimation via practical C coding | MIT 6.241, 6.245, 6.437; ETH 151-0567; Kalman | [View](https://github.com/rootkiller6788/mini-kalman-estimation) |
+| `mini-stochastic-control` | Stochastic control built from scratch, learn certainty equivalence, LQG, bandit problems & decentralized stochastic control via practical C coding | MIT 6.231, 6.241; Caltech CDS 240; ETH 151-0567; Kalman | [View](https://github.com/rootkiller6788/mini-stochastic-control) |
+| `mini-automation-application-systems` | Automation application systems built from scratch, learn aerospace GNC, automotive control, autonomous vehicles & building energy control via practical C coding | MIT 16.30, 16.842, 6.061, 10.450, 4.463 | [View](https://github.com/rootkiller6788/mini-automation-application-systems) |
+
+
+﻿---
 ## [CTRL] Complex Control Theory (`mini-*` Series)
 
 > **Advanced control theory built from scratch in zero-dependency C.** From classical linear systems and optimal control to nonlinear dynamics, adaptive/robust/geometric control, multi-agent coordination, and cybernetic foundations -- spanning Kalman, Pontryagin, Lyapunov, and Bellman paradigms.
@@ -169,26 +238,6 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 
 
 ﻿---
-## [AUTO] Automation Theory (`mini-*` Series)
-
-> **Classical and modern automation theory built from scratch in zero-dependency C.** From control mathematics and system modeling through time/frequency domain analysis, root locus, state-space theory, Kalman estimation to industrial application systems.
-
-| Repository | Description | Reference Course & Materials | Link |
-|-----------|-------------|------------------------------|------|
-| `mini-control-mathematics` | Control mathematics built from scratch, learn complex analysis, Laplace/Z transforms, ODEs, linear algebra & numerical methods via practical C coding | MIT 18.03, 18.04, 18.335; Kalman; Lyapunov | [View](https://github.com/rootkiller6788/mini-control-mathematics) |
-| `mini-system-modeling` | System modeling built from scratch, learn transfer functions, block diagrams, mechanical/electrical/fluid-thermal & mechatronic modeling via practical C coding | MIT 2.003, 2.004; ETH 151-0591; Bode; Hurwitz | [View](https://github.com/rootkiller6788/mini-system-modeling) |
-| `mini-time-domain-analysis` | Time domain analysis built from scratch, learn impulse/step response, second-order systems, higher-order reduction & sensitivity analysis via practical C coding | MIT 6.241J; Caltech CDS 110; ETH 227-0216; Bode; Hurwitz | [View](https://github.com/rootkiller6788/mini-time-domain-analysis) |
-| `mini-root-locus-method` | Root locus method built from scratch, learn Evans root locus, lead/lag design, parameter variation & multiloop root locus via practical C coding | MIT 6.241J, 6.302, 16.30, 2.737; Hurwitz | [View](https://github.com/rootkiller6788/mini-root-locus-method) |
-| `mini-frequency-domain` | Frequency domain analysis built from scratch, learn Bode plots, Nyquist stability, gain/phase margin & bandwidth design via practical C coding | MIT 6.302; Caltech CDS 110; ETH 151-0563; Bode; Nichols | [View](https://github.com/rootkiller6788/mini-frequency-domain) |
-| `mini-classical-compensator` | Classical compensator design built from scratch, learn lead/lag compensation, feedforward control & cascade control via practical C coding | MIT 6.302; Caltech CDS 110; ETH 151-0591; Bode; Nichols | [View](https://github.com/rootkiller6788/mini-classical-compensator) |
-| `mini-state-space-theory` | State-space theory built from scratch, learn controllability, observability, canonical forms & minimal realization via practical C coding | MIT 6.241J, 16.30, 2.151; Kalman | [View](https://github.com/rootkiller6788/mini-state-space-theory) |
-| `mini-pole-placement-observer` | Pole placement & observer design built from scratch, learn full-order/reduced-order observers, Luenberger observer & separation principle via practical C coding | MIT 6.241J, 16.30, 16.31; Stanford AA 203; Lyapunov | [View](https://github.com/rootkiller6788/mini-pole-placement-observer) |
-| `mini-kalman-estimation` | Kalman estimation built from scratch, learn discrete/continuous/extended Kalman filter, particle filter & state estimation via practical C coding | MIT 6.241, 6.245, 6.437; ETH 151-0567; Kalman | [View](https://github.com/rootkiller6788/mini-kalman-estimation) |
-| `mini-stochastic-control` | Stochastic control built from scratch, learn certainty equivalence, LQG, bandit problems & decentralized stochastic control via practical C coding | MIT 6.231, 6.241; Caltech CDS 240; ETH 151-0567; Kalman | [View](https://github.com/rootkiller6788/mini-stochastic-control) |
-| `mini-automation-application-systems` | Automation application systems built from scratch, learn aerospace GNC, automotive control, autonomous vehicles & building energy control via practical C coding | MIT 16.30, 16.842, 6.061, 10.450, 4.463 | [View](https://github.com/rootkiller6788/mini-automation-application-systems) |
-
-
-﻿---
 ## [CTRLENG] Control Engineering Practice (`mini-*` Series)
 
 > **Industrial control engineering practice built from scratch in zero-dependency C.** From field instrumentation, PID tuning, and PLC/DCS/SCADA systems through advanced process control, MPC implementation, safety systems, MES digital factory, and industrial cybersecurity.
@@ -218,72 +267,6 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 
 
 ﻿---
-## [ELEC] Electronic Information Engineering (`mini-*` Series)
-
-> **Electronic and information engineering built from scratch in zero-dependency C.** From signal/system theory, analog/digital circuits, MCU embedded systems, communication principles, DSP, electromagnetics, power electronics, PCB design to IoT, fiber optics, radar, navigation, and manufacturing test.
-
-| Repository | Description | Reference Course & Materials | Link |
-|-----------|-------------|------------------------------|------|
-| `mini-signal-system-theory` | Signal and system theory built from scratch, learn continuous/discrete signals, Fourier/Laplace/Z transforms, sampling & filter theory via practical C coding | MIT 6.003, 6.341, 6.435, 6.450 | [View](https://github.com/rootkiller6788/mini-signal-system-theory) |
-| `mini-circuit-analysis` | Circuit analysis built from scratch, learn KVL/KCL, nodal/mesh analysis, Thevenin/Norton, transient response & AC steady-state via practical C coding | MIT 6.002, 6.003, 6.061 | [View](https://github.com/rootkiller6788/mini-circuit-analysis) |
-| `mini-analog-electronics` | Analog electronics built from scratch, learn diodes, BJT/MOSFET amplifiers, op-amp circuits, active filters & oscillators via practical C coding | MIT 6.002, 6.775 | [View](https://github.com/rootkiller6788/mini-analog-electronics) |
-| `mini-digital-electronics` | Digital electronics built from scratch, learn logic gates, combinational/sequential circuits, FPGAs, VHDL/Verilog & state machines via practical C coding | MIT 6.004, 6.205; IEEE 1164 | [View](https://github.com/rootkiller6788/mini-digital-electronics) |
-| `mini-mcu-embedded-sys` | MCU embedded systems built from scratch, learn ARM Cortex-M, RTOS, peripheral drivers, low-power design & firmware architecture via practical C coding | MIT 6.003, 6.004, 6.2050; Cambridge CST I | [View](https://github.com/rootkiller6788/mini-mcu-embedded-sys) |
-| `mini-communication-principle` | Communication principles built from scratch, learn AM/FM/PM modulation, digital modulation, channel coding, OFDM & MIMO via practical C coding | MIT 6.441, 6.450, 6.451, 6.452 | [View](https://github.com/rootkiller6788/mini-communication-principle) |
-| `mini-digital-signal-process` | Digital signal processing built from scratch, learn DFT/FFT, FIR/IIR filters, multirate DSP, adaptive filters & spectral analysis via practical C coding | MIT 6.003, 6.011, 6.341, 6.432, 6.555 | [View](https://github.com/rootkiller6788/mini-digital-signal-process) |
-| `mini-electromagnetic-wave` | Electromagnetic wave theory built from scratch, learn Maxwell equations, plane waves, waveguides, antennas & EM interference via practical C coding | MIT 6.630 | [View](https://github.com/rootkiller6788/mini-electromagnetic-wave) |
-| `mini-sensor-measurement` | Sensor and measurement technology built from scratch, learn transducers, signal conditioning, ADC/DAC, calibration & measurement uncertainty via practical C coding | MIT 6.003, 6.301, 6.555, 6.630, 16.485 | [View](https://github.com/rootkiller6788/mini-sensor-measurement) |
-| `mini-control-automation` | Control and automation electronics built from scratch, learn feedback control, motor drives, PLC interfacing & industrial automation via practical C coding | MIT 16.30, 6.02; IEC 61131, 61158; ISA-18 | [View](https://github.com/rootkiller6788/mini-control-automation) |
-| `mini-power-electronics` | Power electronics built from scratch, learn DC-DC converters, inverters, rectifiers, power semiconductors & grid integration via practical C coding | MIT 6.334; IEEE 519, 1547 | [View](https://github.com/rootkiller6788/mini-power-electronics) |
-| `mini-wireless-mobile-comm` | Wireless and mobile communications built from scratch, learn cellular systems, MIMO, channel modeling, OFDMA & 5G NR via practical C coding | MIT 6.450, 6.829, 6.875; IEEE 802 | [View](https://github.com/rootkiller6788/mini-wireless-mobile-comm) |
-| `mini-optical-fiber-comm` | Optical fiber communications built from scratch, learn fiber modes, dispersion, EDFA, WDM, coherent detection & optical networking via practical C coding | Stanford EE 247, 347; IEEE 802 | [View](https://github.com/rootkiller6788/mini-optical-fiber-comm) |
-| `mini-radar-remote-sensing` | Radar and remote sensing built from scratch, learn radar equation, SAR, Doppler processing, target detection & clutter rejection via practical C coding | MIT 6.630, 12.710, 16.851, 22.071 | [View](https://github.com/rootkiller6788/mini-radar-remote-sensing) |
-| `mini-navigation-positioning` | Navigation and positioning built from scratch, learn GPS/GNSS, INS, Kalman integration, PTP/IEEE 1588 & sensor fusion via practical C coding | MIT 16.485, 16.687; CMU 16-833; IEEE 802, 1588 | [View](https://github.com/rootkiller6788/mini-navigation-positioning) |
-| `mini-iot-edge-computing` | IoT and edge computing built from scratch, learn MQTT/CoAP, edge analytics, OPC UA, digital twins & industrial IoT via practical C coding | MIT 2.830; CMU 18-730; IEC 62443, 62541; ISA-95 | [View](https://github.com/rootkiller6788/mini-iot-edge-computing) |
-| `mini-industrial-fieldbus` | Industrial fieldbus systems built from scratch, learn PROFIBUS, EtherCAT, CANopen, IO-Link & wireless HART via practical C coding | IEC 61158, 61784, 62541, 62591; IEEE 802 | [View](https://github.com/rootkiller6788/mini-industrial-fieldbus) |
-| `mini-audio-video-eng` | Audio and video engineering built from scratch, learn codecs, streaming, compression, image processing & multimedia systems via practical C coding | MIT 6.003, 6.344, 6.450, 6.829 | [View](https://github.com/rootkiller6788/mini-audio-video-eng) |
-| `mini-emc-signal-integrity` | EMC and signal integrity built from scratch, learn crosstalk, impedance matching, PDN design, grounding & shielding via practical C coding | MIT 6.630; IEC 61000 | [View](https://github.com/rootkiller6788/mini-emc-signal-integrity) |
-| `mini-electronic-mfg-test` | Electronic manufacturing and test built from scratch, learn JTAG/boundary scan, ATE, flying probe, functional test & DFT via practical C coding | MIT 2.830J, 3.155J, 6.002, 6.004; IEEE 1149 | [View](https://github.com/rootkiller6788/mini-electronic-mfg-test) |
-| `mini-pcb-design-layout` | PCB design and layout built from scratch, learn stackup, impedance control, high-speed routing, DFM & thermal management via practical C coding | MIT 6.002, 6.630, 6.776; CMU 15-462 | [View](https://github.com/rootkiller6788/mini-pcb-design-layout) |
-| `mini-power-supply-design-practice` | Power supply design practice built from scratch, learn SMPS, LDO, magnetics design, feedback compensation & EMI compliance via practical C coding | MIT 6.301, 6.334, 6.622 | [View](https://github.com/rootkiller6788/mini-power-supply-design-practice) |
-| `mini-electronic-measurement-instr` | Electronic measurement and instrumentation built from scratch, learn DMM, oscilloscope, spectrum analyzer, VNA & TDR via practical C coding | MIT 6.003, 6.004, 6.111, 6.301, 6.450 | [View](https://github.com/rootkiller6788/mini-electronic-measurement-instr) |
-| `mini-smt-soldering-assembly` | SMT soldering and assembly built from scratch, learn reflow, stencil printing, AOI, X-ray inspection & ESD control via practical C coding | MIT 2.008; IEC 61340 | [View](https://github.com/rootkiller6788/mini-smt-soldering-assembly) |
-| `mini-signal-integrity-measurement` | Signal integrity measurement built from scratch, learn eye diagram, jitter, BER, TDR/VNA measurement & compliance testing via practical C coding | MIT 6.630, 6.642, 6.776; IEEE 370, 2414 | [View](https://github.com/rootkiller6788/mini-signal-integrity-measurement) |
-| `mini-emc-emi-test-practice` | EMC and EMI test practice built from scratch, learn conducted/radiated emissions, immunity, ESD testing & pre-compliance via practical C coding | IEC 61000 | [View](https://github.com/rootkiller6788/mini-emc-emi-test-practice) |
-| `mini-mcu-dev-board-design` | MCU development board design built from scratch, learn schematic design, BOM optimization, bootloader & hardware debugging via practical C coding | MIT 6.002, 6.004, 6.S082 | [View](https://github.com/rootkiller6788/mini-mcu-dev-board-design) |
-| `mini-rf-circuit-debugging` | RF circuit debugging built from scratch, learn matching network tuning, S-parameter measurement, spectrum analysis & noise figure via practical C coding | MIT 6.02, 6.630, 6.776 | [View](https://github.com/rootkiller6788/mini-rf-circuit-debugging) |
-| `mini-sensor-interface-circuit` | Sensor interface circuits built from scratch, learn Wheatstone bridge, instrumentation amplifier, ADC driver, isolation & 4-20mA loop via practical C coding | MIT 2.171, 6.002, 6.003; IEC 60747; ISA-50 | [View](https://github.com/rootkiller6788/mini-sensor-interface-circuit) |
-| `mini-motor-drive-power-practice` | Motor drive power practice built from scratch, learn BLDC control, FOC, inverter design, current sensing & protection via practical C coding | MIT 2.004, 6.131, 6.310, 6.622 | [View](https://github.com/rootkiller6788/mini-motor-drive-power-practice) |
-
-
-## [TOC] Theory of Computation Foundations (`mini-*` Series)
-
-> **Fundamental results in theoretical computer science built from scratch in zero-dependency C**. Covering complexity theory, cryptography, quantum computation, distributed computing, and learning theory from first principles — all algorithms implemented and verifiable.
-
-| Repository | Description | Reference Course & Materials | Link |
-|-----------|-------------|------------------------------|------|
-| `mini-complexity-foundations` | Computational complexity foundations built from scratch, learn P/NP, Cook-Levin theorem, polynomial hierarchy & Ladner theorem via practical C coding | MIT 6.045J, 6.841; CMU 15-855; Sipser, Arora-Barak | [View](https://github.com/rootkiller6788/mini-complexity-foundations) |
-| `mini-circuit-complexity` | Circuit complexity built from scratch, learn boolean circuits, AC0/NC hierarchy, circuit SAT, ACC0 & lower bounds via practical C coding | MIT 6.841, 6.845; Arora-Barak | [View](https://github.com/rootkiller6788/mini-circuit-complexity) |
-| `mini-randomized-derandomization` | Randomized algorithms & derandomization built from scratch, learn BPP/ZPP, expander graphs, hardness-vs-randomness via practical C coding | MIT 6.045, 6.841; CMU 15-855; Arora-Barak, Goldreich | [View](https://github.com/rootkiller6788/mini-randomized-derandomization) |
-| `mini-pcp-inapproximability` | PCP theorem & inapproximability built from scratch, learn PCP verifiers, gap amplification, label cover & hardness of approximation via practical C coding | MIT 6.841, 6.845, 6.854; CMU 15-859; Arora | [View](https://github.com/rootkiller6788/mini-pcp-inapproximability) |
-| `mini-communication-complexity` | Communication complexity built from scratch, learn deterministic/nondeterministic protocols, lifting theorems & information complexity via practical C coding | MIT 6.845, 6.895; CMU 15-859; Princeton CS 522 | [View](https://github.com/rootkiller6788/mini-communication-complexity) |
-| `mini-proof-complexity` | Proof complexity built from scratch, learn Frege/extended Frege systems, cutting planes, algebraic proofs & lower bounds via practical C coding | MIT 6.841; CMU 15-855; Princeton COS 522, 551; Cambridge Part III | [View](https://github.com/rootkiller6788/mini-proof-complexity) |
-| `mini-fine-grained-complexity` | Fine-grained complexity built from scratch, learn SETH/3SUM/APSP conjectures, conditional lower bounds & equivalence classes via practical C coding | MIT 6.8410, 6.8420 | [View](https://github.com/rootkiller6788/mini-fine-grained-complexity) |
-| `mini-parameterized-complexity` | Parameterized complexity built from scratch, learn FPT tractability, W-hierarchy, Courcelle theorem & bidimensionality via practical C coding | MIT 6.890; CMU 15-751 | [View](https://github.com/rootkiller6788/mini-parameterized-complexity) |
-| `mini-descriptive-complexity` | Descriptive complexity built from scratch, learn Fagin theorem, Ehrenfeucht-Fraisse games, fixpoint logic & finite model theory via practical C coding | MIT 18.504, 18.510, 6.5830, 6.8410; Stanford CS 254 | [View](https://github.com/rootkiller6788/mini-descriptive-complexity) |
-| `mini-algorithmic-info-theory` | Algorithmic information theory built from scratch, learn Kolmogorov complexity, incompressibility method, Chaitin omega & algorithmic randomness via practical C coding | MIT 6.441, 6.841; CMU 15-751, 15-855; Cambridge Part III | [View](https://github.com/rootkiller6788/mini-algorithmic-info-theory) |
-| `mini-crypto-foundations-1-owf-prg` | Foundations of cryptography: OWF & PRG built from scratch, learn one-way functions, Goldreich-Levin hardcore bit, PRGs & hybrid arguments via practical C coding | MIT 6.875; Princeton COS 433, 522; Goldreich; Arora-Barak | [View](https://github.com/rootkiller6788/mini-crypto-foundations-1-owf-prg) |
-| `mini-crypto-foundations-2-zk-proofs` | Foundations of cryptography: zero-knowledge proofs built from scratch, learn interactive proofs, GMR/GMW protocols & commitment schemes via practical C coding | MIT 6.845, 6.875, 6.876; Princeton COS 522; Goldreich | [View](https://github.com/rootkiller6788/mini-crypto-foundations-2-zk-proofs) |
-| `mini-crypto-foundations-3-mpc` | Foundations of cryptography: secure multi-party computation built from scratch, learn Yao garbled circuits, GMW/BGW/CCD protocols via practical C coding | MIT 6.876; Goldreich | [View](https://github.com/rootkiller6788/mini-crypto-foundations-3-mpc) |
-| `mini-crypto-foundations-4-fhe-io` | Foundations of cryptography: FHE & IO built from scratch, learn fully homomorphic encryption, bootstrapping, functional encryption & ABE via practical C coding | MIT 6.876; Goldreich; Arora | [View](https://github.com/rootkiller6788/mini-crypto-foundations-4-fhe-io) |
-| `mini-crypto-foundations-5-post-quantum` | Foundations of cryptography: post-quantum crypto built from scratch, learn lattice/code/hash/isogeny-based schemes & hybrid key exchange via practical C coding | MIT 6.845, 6.875, 6.876; CMU 15-855; Oxford Advanced C | [View](https://github.com/rootkiller6788/mini-crypto-foundations-5-post-quantum) |
-| `mini-quantum-computation-1-circuits` | Quantum computation I: circuits built from scratch, learn quantum circuit model, Grover search, phase estimation & HHL algorithm via practical C coding | MIT 6.845; CMU 15-859; Caltech CS 154; Oxford Advanced C; Arora | [View](https://github.com/rootkiller6788/mini-quantum-computation-1-circuits) |
-| `mini-quantum-computation-2-complexity` | Quantum computation II: complexity built from scratch, learn BQP class, QMA/QIP=PSPACE, boson sampling & post-quantum separations via practical C coding | MIT 6.845, 6.875; Caltech CS 154 | [View](https://github.com/rootkiller6788/mini-quantum-computation-2-complexity) |
-| `mini-distributed-computing-theory` | Distributed computing theory built from scratch, learn FLP impossibility, Byzantine agreement, consensus & fault-tolerant lower bounds via practical C coding | MIT 6.841, 6.852; CMU 15-712, 15-855; Cambridge Part III | [View](https://github.com/rootkiller6788/mini-distributed-computing-theory) |
-| `mini-computational-learning-theory` | Computational learning theory built from scratch, learn PAC model, VC dimension, online learning, boosting & differential privacy via practical C coding | MIT 6.860; CMU 10-715, 15-859; Princeton COS 511 | [View](https://github.com/rootkiller6788/mini-computational-learning-theory) |
-| `mini-reactive-verification-synthesis` | Reactive verification & synthesis built from scratch, learn LTL/CTL model checking, Buchi automata & GR(1) synthesis via practical C coding | MIT 6.841; CMU 15-414, 18-760 | [View](https://github.com/rootkiller6788/mini-reactive-verification-synthesis) |
-
-
 ## 🤖 LLM Architecture & AI Engineering Systems
 
 > Focus on large model architecture inference, kernel optimization, automated research, and multi-agent engineering workflows.
