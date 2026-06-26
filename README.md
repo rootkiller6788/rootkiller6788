@@ -55,8 +55,6 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 
 ---
 
----
-
 ## [TOC] Theory of Computation Foundations (`mini-*` Series)
 
 > **Fundamental results in theoretical computer science built from scratch in zero-dependency C**. Covering complexity theory, cryptography, quantum computation, distributed computing, and learning theory from first principles — all algorithms implemented and verifiable.
@@ -83,8 +81,6 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-distributed-computing-theory` | Distributed computing theory built from scratch, learn FLP impossibility, Byzantine agreement, consensus & fault-tolerant lower bounds via practical C coding | MIT 6.841, 6.852; CMU 15-712, 15-855; Cambridge Part III | [View](https://github.com/rootkiller6788/mini-distributed-computing-theory) |
 | `mini-computational-learning-theory` | Computational learning theory built from scratch, learn PAC model, VC dimension, online learning, boosting & differential privacy via practical C coding | MIT 6.860; CMU 10-715, 15-859; Princeton COS 511 | [View](https://github.com/rootkiller6788/mini-computational-learning-theory) |
 | `mini-reactive-verification-synthesis` | Reactive verification & synthesis built from scratch, learn LTL/CTL model checking, Buchi automata & GR(1) synthesis via practical C coding | MIT 6.841; CMU 15-414, 18-760 | [View](https://github.com/rootkiller6788/mini-reactive-verification-synthesis) |
-
----
 
 ---
 
