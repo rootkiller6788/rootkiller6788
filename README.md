@@ -85,7 +85,7 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-reactive-verification-synthesis` | Reactive verification & synthesis built from scratch, learn LTL/CTL model checking, Buchi automata & GR(1) synthesis via practical C coding | MIT 6.841; CMU 15-414, 18-760 | [View](https://github.com/rootkiller6788/mini-reactive-verification-synthesis) |
 
 
-## [C] Bare-Metal Full-Stack Foundation (`mini-*` Series)
+## [COMPUTING] Bare-Metal Full-Stack Foundation (`mini-*` Series)
 
 > Full coverage of the entire computer technology stack, **100% pure C implemented from scratch**. Rigorous bottom-up construction to verify the underlying core principles of all hardware, system, network, business and intelligent technologies.
 
@@ -114,7 +114,7 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 
 ---
 
-## [Physics] Pure Physics Foundations (`mini-*` Series)
+## [PHYSICS] Pure Physics Foundations (`mini-*` Series)
 
 > **University-level physics built from scratch in zero-dependency C**. Every sub-module maps to MIT and top-tier university courses, translating textbook formulas from Goldstein, Landau, Jackson, Griffiths, and Feynman into executable C simulations from first principles.
 
