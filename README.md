@@ -84,6 +84,9 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-computational-learning-theory` | Computational learning theory built from scratch, learn PAC model, VC dimension, online learning, boosting & differential privacy via practical C coding | MIT 6.860; CMU 10-715, 15-859; Princeton COS 511 | [View](https://github.com/rootkiller6788/mini-computational-learning-theory) |
 | `mini-reactive-verification-synthesis` | Reactive verification & synthesis built from scratch, learn LTL/CTL model checking, Buchi automata & GR(1) synthesis via practical C coding | MIT 6.841; CMU 15-414, 18-760 | [View](https://github.com/rootkiller6788/mini-reactive-verification-synthesis) |
 
+---
+
+---
 
 ## [COMPUTING] Bare-Metal Full-Stack Foundation (`mini-*` Series)
 
@@ -111,6 +114,8 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-eda-fpga-asic` | EDA tool development, FPGA logic & ASIC chip underlying design | IEEE 1364/1800 Verilog, UVM, RISC-V ISA, Synopsys/Cadence EDA Tools, NoC Theory | [View](https://github.com/rootkiller6788/mini-eda-fpga-asic) |
 | `mini-software-eng-product` | Bottom-up standardized software engineering system and project practice | C4 Model, Conventional Commits, Clean Code, SAFe/Scrum, SonarQube Testing Standards | [View](https://github.com/rootkiller6788/mini-software-eng-product) |
 | `mini-app-industry-product` | Industrial-grade embedded application development and engineering practice | Enterprise ERP/CRM Standards, Industrial Embedded Specs, FinTech/HealthTech Engineering Norms | [View](https://github.com/rootkiller6788/mini-app-industry-product) |
+
+---
 
 ---
 
