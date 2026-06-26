@@ -212,10 +212,8 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-stochastic-control` | Stochastic control built from scratch, learn certainty equivalence, LQG, bandit problems & decentralized stochastic control via practical C coding | MIT 6.231, 6.241; Caltech CDS 240; ETH 151-0567; Kalman | [View](https://github.com/rootkiller6788/mini-stochastic-control) |
 | `mini-automation-application-systems` | Automation application systems built from scratch, learn aerospace GNC, automotive control, autonomous vehicles & building energy control via practical C coding | MIT 16.30, 16.842, 6.061, 10.450, 4.463 | [View](https://github.com/rootkiller6788/mini-automation-application-systems) |
 
-
 ﻿---
 
- 
 ## [CTRL] Complex Control Theory (`mini-*` Series)
 
 > **Advanced control theory built from scratch in zero-dependency C.** From classical linear systems and optimal control to nonlinear dynamics, adaptive/robust/geometric control, multi-agent coordination, and cybernetic foundations -- spanning Kalman, Pontryagin, Lyapunov, and Bellman paradigms.
@@ -253,9 +251,7 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-complex-adaptive-systems` | Complex adaptive systems built from scratch, learn swarm intelligence, agent adaptation, CAS economics, artificial life and emergence via practical C coding | MIT 6.045, 6.7201, 6.7900, 6.821, 14.13; Lyapunov | [View](https://github.com/rootkiller6788/mini-complex-adaptive-systems) |
 | `mini-cybernetics-foundation` | Cybernetics foundations built from scratch, learn Ashby homeostasis, autopoiesis, control philosophy and human-machine symbiosis via practical C coding | MIT 6.045, 6.241, 6.241J; Caltech CS 151; Cambridge Part II; ETH 227-0216 | [View](https://github.com/rootkiller6788/mini-cybernetics-foundation) |
 
-
 ﻿---
- 
  
 ## [CTRLENG] Control Engineering Practice (`mini-*` Series)
 
@@ -284,10 +280,8 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-industrial-ai-control-fusion` | Industrial AI and control fusion built from scratch, learn anomaly detection, predictive maintenance, RL process optimization & edge AI inference via practical C coding | MIT 2.171; CMU 24-677; IEC 61131; ISA-5, 95 | [View](https://github.com/rootkiller6788/mini-industrial-ai-control-fusion) |
 | `mini-control-system-cybersecurity` | Control system cybersecurity built from scratch, learn IEC 62443, deep packet inspection, whitelisting, key management & OT network segmentation via practical C coding | MIT 6.858; CMU 24-677; IEC 62443 | [View](https://github.com/rootkiller6788/mini-control-system-cybersecurity) |
 
-
 ﻿---
 
- 
 ## [AI] LLM Architecture & AI Engineering Systems
 
 > Focus on large model architecture inference, kernel optimization, automated research, and multi-agent engineering workflows.
