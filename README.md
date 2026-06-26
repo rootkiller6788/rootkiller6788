@@ -84,6 +84,36 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 
 ---
 
+---
+
+## [Physics] Pure Physics Foundations (`mini-*` Series)
+
+> **University-level physics built from scratch in zero-dependency C**. Every sub-module maps to MIT and top-tier university courses, translating textbook formulas from Goldstein, Landau, Jackson, Griffiths, and Feynman into executable C simulations from first principles.
+
+| Repository | Description | Reference Course & Materials | Link |
+|-----------|-------------|------------------------------|------|
+| `mini-classical-mechanics` | Classical mechanics built from scratch, learn Lagrangian, Hamiltonian, rigid-body, celestial & continuum mechanics via practical C coding | MIT 8.01, 8.09, 2.003, 2.071; Goldstein, Landau Vol.1; Marion-Thornton | [View](https://github.com/rootkiller6788/mini-classical-mechanics) |
+| `mini-electromagnetism` | Electromagnetism built from scratch, learn electrostatics, magnetostatics, Maxwell equations, EM waves & media via practical C coding | MIT 8.02, 8.07; Griffiths, Jackson; Purcell-Morin | [View](https://github.com/rootkiller6788/mini-electromagnetism) |
+| `mini-thermodynamics-statphys` | Thermodynamics & statistical physics built from scratch, learn classical thermo, phase transitions, Boltzmann transport & non-equilibrium via practical C coding | MIT 8.044, 8.334, 6.441; Stanford PHYSICS 110, 170; Caltech Ph 12; Landau Vol.5; Cambridge Part II | [View](https://github.com/rootkiller6788/mini-thermodynamics-statphys) |
+| `mini-quantum-mechanics` | Quantum mechanics built from scratch, learn operator formalism, angular momentum, path integrals, perturbation theory & entanglement via practical C coding | MIT 8.04, 8.05, 8.323, 8.334, 8.370; Caltech Ph 125; Feynman Vol.III; Cambridge Part II | [View](https://github.com/rootkiller6788/mini-quantum-mechanics) |
+| `mini-solid-state-physics` | Solid-state physics built from scratch, learn crystal structure, electron band theory, phonons, magnetism & superconductivity via practical C coding | MIT 8.231, 8.331, 8.334; Stanford PHYSICS 171, 270, APPPHYS 273; Landau Vol.5/9; Cambridge Part II | [View](https://github.com/rootkiller6788/mini-solid-state-physics) |
+| `mini-optics-photonics` | Optics & photonics built from scratch, learn geometrical optics, lasers, fiber optics, nonlinear optics & nanophotonics via practical C coding | MIT 8.07, 8.422; Stanford PHYSICS 230, 430 | [View](https://github.com/rootkiller6788/mini-optics-photonics) |
+| `mini-fluid-dynamics` | Fluid dynamics built from scratch, learn inviscid flow, boundary layers, compressible flow, computational fluid & multiphase via practical C coding | MIT 2.25, 2.27, 2.29, 12.800, 16.100; Stanford ME 351; Landau Vol.6 | [View](https://github.com/rootkiller6788/mini-fluid-dynamics) |
+| `mini-acoustics` | Acoustics built from scratch, learn acoustic wave theory, aeroacoustics, room acoustics, structural acoustics & transducers via practical C coding | MIT 2.066, 6.813, 16.89; Stanford AA 208, BIOE 222, MUSIC 422; Caltech Ph 106; Cambridge Part III | [View](https://github.com/rootkiller6788/mini-acoustics) |
+| `mini-plasma-physics` | Plasma physics built from scratch, learn MHD, fusion plasma, laser plasma, dusty plasma & industrial plasma via practical C coding | MIT 22.611; Princeton PHY 521, 525, AST 554; Berkeley PHYS 242; Landau Vol.10; Cambridge Part III | [View](https://github.com/rootkiller6788/mini-plasma-physics) |
+| `mini-nuclear-physics` | Nuclear physics built from scratch, learn neutron physics, hadron structure, heavy ion, nuclear astrophysics & energy via practical C coding | MIT 22.01, 22.05, 22.101, 8.701; Stanford PHYSICS 261, 262, 362; Stanford ME 464 | [View](https://github.com/rootkiller6788/mini-nuclear-physics) |
+| `mini-particle-physics` | Particle physics built from scratch, learn electroweak theory, flavor/CP violation, collider detectors, dark matter & beyond SM via practical C coding | MIT 8.324, 8.325, 8.701, 8.811, 8.821, 8.902, 8.13; Cambridge Part III | [View](https://github.com/rootkiller6788/mini-particle-physics) |
+| `mini-astrophysics` | Astrophysics built from scratch, learn compact objects, gravitational waves, galactic dynamics, high-energy astro & exoplanets via practical C coding | MIT 8.901, 8.902, 8.962, 12.002; Princeton AST 341, 541; Stanford PHYSICS 262 | [View](https://github.com/rootkiller6788/mini-astrophysics) |
+| `mini-cosmology` | Cosmology built from scratch, learn Friedmann model, CMB, dark energy, inflation & structure formation via practical C coding | MIT 8.942; Princeton PHY 525; Stanford PHYSICS 362, 364; Caltech Ph 217; Cambridge Part III | [View](https://github.com/rootkiller6788/mini-cosmology) |
+| `mini-general-relativity` | General relativity built from scratch, learn differential geometry, Einstein equations, black holes & gravitational waves via practical C coding | MIT 8.962; Cambridge Part III; Schutz; Wald; Misner-Thorne-Wheeler | [View](https://github.com/rootkiller6788/mini-general-relativity) |
+| `mini-quantum-field-theory` | Quantum field theory built from scratch, learn canonical quantization, Feynman diagrams, gauge theory, effective field theory & CFT via practical C coding | MIT 8.323, 8.324, 8.325, 8.821; Peskin-Schroeder; Weinberg Vol.1-3 | [View](https://github.com/rootkiller6788/mini-quantum-field-theory) |
+| `mini-condensed-matter` | Condensed matter physics built from scratch, learn quantum many-body, quantum Hall, 2D materials, soft matter & quantum computing hardware via practical C coding | MIT 8.231, 8.511, 6.730, 6.731, 6.732, 6.443; Berkeley PHYS 242; Landau | [View](https://github.com/rootkiller6788/mini-condensed-matter) |
+| `mini-atomic-molecular` | Atomic & molecular physics built from scratch, learn atomic structure, cold atoms, BEC, collision dynamics & molecular structure via practical C coding | MIT 8.421; Stanford PHYSICS 230; Caltech Ph 230 | [View](https://github.com/rootkiller6788/mini-atomic-molecular) |
+| `mini-computational-physics` | Computational physics built from scratch, learn DFT, FEM, HPC physics, ML for physics & data analysis via practical C coding | MIT 18.330, 2.094, 3.320, 6.7900, 8.13, 6.7330; Berkeley CS 267; Landau-Paez | [View](https://github.com/rootkiller6788/mini-computational-physics) |
+| `mini-biophysics` | Biophysics built from scratch, learn biomechanics, membrane physics, molecular motors, bioimaging & neural biophysics via practical C coding | MIT 20.310, 20.320, 8.241; Caltech BE 150, 153, Ph 106; Cambridge Part II; Oxford Mathematical B | [View](https://github.com/rootkiller6788/mini-biophysics) |
+| `mini-interdisciplinary-physics` | Interdisciplinary physics built from scratch, learn geophysics, climate physics, econophysics, medical physics & complex systems via practical C coding | MIT 12.002, 12.003, 12.340, 2.092, 14.44; Caltech Ge 110, EE 152, Ph 219 | [View](https://github.com/rootkiller6788/mini-interdisciplinary-physics) |
+
+
 ## 🤖 LLM Architecture & AI Engineering Systems
 
 > Focus on large model architecture inference, kernel optimization, automated research, and multi-agent engineering workflows.
