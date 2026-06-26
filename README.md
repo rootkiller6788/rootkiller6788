@@ -117,6 +117,19 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 ---
 
 ﻿---
+﻿---
+## [ENGPHYS] Engineering Physics (`mini-*` Series)
+
+> **Applied engineering physics built from scratch in zero-dependency C.** Transport phenomena, heat and mass transfer, vacuum thin-film processes, and reaction engineering -- bridging pure physics with industrial engineering practice.
+
+| Repository | Description | Reference Course & Materials | Link |
+|-----------|-------------|------------------------------|------|
+| `mini-eng-heat-mass-transfer` | Engineering heat and mass transfer built from scratch, learn conduction, convection, radiation, boiling/condensation & electronic cooling via practical C coding | MIT 2.51, 2.55, 2.58, 22.313 | [View](https://github.com/rootkiller6788/mini-eng-heat-mass-transfer) |
+| `mini-eng-vacuum-thin-film` | Vacuum and thin-film engineering built from scratch, learn kinetic theory, sputtering, evaporation deposition, thin film nucleation & stress/adhesion via practical C coding | MIT 22.63, 3.14, 5.62, 6.152J; Stanford MSE 318 | [View](https://github.com/rootkiller6788/mini-eng-vacuum-thin-film) |
+| `mini-eng-transport-phenomena` | Transport phenomena built from scratch, learn convective diffusion, interphase transport, dimensionless numbers & computational transport via practical C coding | MIT 2.25, 2.29, 10.37, 10.50, 16.90 | [View](https://github.com/rootkiller6788/mini-eng-transport-phenomena) |
+| `mini-eng-reaction-engineering` | Reaction engineering built from scratch, learn CSTR/PFR/batch reactors, Arrhenius kinetics, catalysis & combustion via practical C coding | MIT 10.37, 10.542; Stanford CME 330 | [View](https://github.com/rootkiller6788/mini-eng-reaction-engineering) |
+
+
 ## [CTRL] Complex Control Theory (`mini-*` Series)
 
 > **Advanced control theory built from scratch in zero-dependency C.** From classical linear systems and optimal control to nonlinear dynamics, adaptive/robust/geometric control, multi-agent coordination, and cybernetic foundations -- spanning Kalman, Pontryagin, Lyapunov, and Bellman paradigms.
@@ -153,6 +166,26 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-network-science` | Network science built from scratch, learn random graphs, percolation, community detection, network controllability and robustness via practical C coding | MIT 6.207, 6.241J; Cambridge Part III; ETH 363-0541; Kalman | [View](https://github.com/rootkiller6788/mini-network-science) |
 | `mini-complex-adaptive-systems` | Complex adaptive systems built from scratch, learn swarm intelligence, agent adaptation, CAS economics, artificial life and emergence via practical C coding | MIT 6.045, 6.7201, 6.7900, 6.821, 14.13; Lyapunov | [View](https://github.com/rootkiller6788/mini-complex-adaptive-systems) |
 | `mini-cybernetics-foundation` | Cybernetics foundations built from scratch, learn Ashby homeostasis, autopoiesis, control philosophy and human-machine symbiosis via practical C coding | MIT 6.045, 6.241, 6.241J; Caltech CS 151; Cambridge Part II; ETH 227-0216 | [View](https://github.com/rootkiller6788/mini-cybernetics-foundation) |
+
+
+﻿---
+## [AUTO] Automation Theory (`mini-*` Series)
+
+> **Classical and modern automation theory built from scratch in zero-dependency C.** From control mathematics and system modeling through time/frequency domain analysis, root locus, state-space theory, Kalman estimation to industrial application systems.
+
+| Repository | Description | Reference Course & Materials | Link |
+|-----------|-------------|------------------------------|------|
+| `mini-control-mathematics` | Control mathematics built from scratch, learn complex analysis, Laplace/Z transforms, ODEs, linear algebra & numerical methods via practical C coding | MIT 18.03, 18.04, 18.335; Kalman; Lyapunov | [View](https://github.com/rootkiller6788/mini-control-mathematics) |
+| `mini-system-modeling` | System modeling built from scratch, learn transfer functions, block diagrams, mechanical/electrical/fluid-thermal & mechatronic modeling via practical C coding | MIT 2.003, 2.004; ETH 151-0591; Bode; Hurwitz | [View](https://github.com/rootkiller6788/mini-system-modeling) |
+| `mini-time-domain-analysis` | Time domain analysis built from scratch, learn impulse/step response, second-order systems, higher-order reduction & sensitivity analysis via practical C coding | MIT 6.241J; Caltech CDS 110; ETH 227-0216; Bode; Hurwitz | [View](https://github.com/rootkiller6788/mini-time-domain-analysis) |
+| `mini-root-locus-method` | Root locus method built from scratch, learn Evans root locus, lead/lag design, parameter variation & multiloop root locus via practical C coding | MIT 6.241J, 6.302, 16.30, 2.737; Hurwitz | [View](https://github.com/rootkiller6788/mini-root-locus-method) |
+| `mini-frequency-domain` | Frequency domain analysis built from scratch, learn Bode plots, Nyquist stability, gain/phase margin & bandwidth design via practical C coding | MIT 6.302; Caltech CDS 110; ETH 151-0563; Bode; Nichols | [View](https://github.com/rootkiller6788/mini-frequency-domain) |
+| `mini-classical-compensator` | Classical compensator design built from scratch, learn lead/lag compensation, feedforward control & cascade control via practical C coding | MIT 6.302; Caltech CDS 110; ETH 151-0591; Bode; Nichols | [View](https://github.com/rootkiller6788/mini-classical-compensator) |
+| `mini-state-space-theory` | State-space theory built from scratch, learn controllability, observability, canonical forms & minimal realization via practical C coding | MIT 6.241J, 16.30, 2.151; Kalman | [View](https://github.com/rootkiller6788/mini-state-space-theory) |
+| `mini-pole-placement-observer` | Pole placement & observer design built from scratch, learn full-order/reduced-order observers, Luenberger observer & separation principle via practical C coding | MIT 6.241J, 16.30, 16.31; Stanford AA 203; Lyapunov | [View](https://github.com/rootkiller6788/mini-pole-placement-observer) |
+| `mini-kalman-estimation` | Kalman estimation built from scratch, learn discrete/continuous/extended Kalman filter, particle filter & state estimation via practical C coding | MIT 6.241, 6.245, 6.437; ETH 151-0567; Kalman | [View](https://github.com/rootkiller6788/mini-kalman-estimation) |
+| `mini-stochastic-control` | Stochastic control built from scratch, learn certainty equivalence, LQG, bandit problems & decentralized stochastic control via practical C coding | MIT 6.231, 6.241; Caltech CDS 240; ETH 151-0567; Kalman | [View](https://github.com/rootkiller6788/mini-stochastic-control) |
+| `mini-automation-application-systems` | Automation application systems built from scratch, learn aerospace GNC, automotive control, autonomous vehicles & building energy control via practical C coding | MIT 16.30, 16.842, 6.061, 10.450, 4.463 | [View](https://github.com/rootkiller6788/mini-automation-application-systems) |
 
 
 ## [TOC] Theory of Computation Foundations (`mini-*` Series)
