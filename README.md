@@ -9,7 +9,24 @@
 
 ---
 
-## 🧮 Mathematical Formalization & Proof Theory (`mini-*` Lean 4 Series)
+## Why I Build in Public
+
+I build technology **from bare-metal scratch** -- no framework shortcuts, no encapsulated black boxes. All implementations are hand-coded, verifiable, and open-sourced permanently.
+
+> Most engineers build *on* existing stacks.
+> I reconstruct *the underlying stack itself*: from mathematical theory, hardware circuits, and low-level system firmware, up to LLM underlying architecture, CUDA kernel optimization, and verifiable self-evolving agent systems.
+
+This repository archive records continuous **bottom-up engineering** and **AI paradigm exploration**. Every project is:
+- Runnable
+- Verifiable
+- Serves as practical prior art for underlying system and intelligent infrastructure research
+
+> *"Open source is not a hobby, but a public technical manifesto of full-stack underlying engineering."*
+> **Long live Open Source.**
+
+---
+
+## [MATH] Mathematical Formalization & Proof Theory (`mini-*` Lean 4 Series)
 
 > **Formal mathematics built from scratch in Lean 4**. Learn rigorous mathematical theory via practical interactive theorem proving. Every definition, lemma, and theorem is machine-checked and computationally verifiable.
 
@@ -68,7 +85,7 @@
 | `mini-reactive-verification-synthesis` | Reactive verification & synthesis built from scratch, learn LTL/CTL model checking, Buchi automata & GR(1) synthesis via practical C coding | MIT 6.841; CMU 15-414, 18-760 | [View](https://github.com/rootkiller6788/mini-reactive-verification-synthesis) |
 
 
-## 🔧 Bare-Metal Full-Stack Foundation (`mini-*` Series)
+## [C] Bare-Metal Full-Stack Foundation (`mini-*` Series)
 
 > Full coverage of the entire computer technology stack, **100% pure C implemented from scratch**. Rigorous bottom-up construction to verify the underlying core principles of all hardware, system, network, business and intelligent technologies.
 
@@ -267,7 +284,7 @@
 
 
 ﻿---
-## 🤖 LLM Architecture & AI Engineering Systems
+## [AI] LLM Architecture & AI Engineering Systems
 
 > Focus on large model architecture inference, kernel optimization, automated research, and multi-agent engineering workflows.
 
@@ -293,7 +310,7 @@
 
 ---
 
-## 🌀 Autonomous Self-Evolving AI Infrastructure
+## [AGENT] Autonomous Self-Evolving AI Infrastructure
 
 > Bottom-up underlying runtime and resource scheduling system for scalable autonomous AI.
 
@@ -305,7 +322,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Languages: C · Rust · Python · CUDA
 Core Domains: Mathematical Formal Verification · Bare-metal Hardware & Kernel
@@ -317,7 +334,7 @@ Philosophy: Verifiable · Reproducible · From Scratch · Open by Default
 
 ---
 
-## 📬 Connect & Contribute
+## Connect & Contribute
 
 - 🔍 **Explore**: Browse any repository above — all code is open for inspection and contribution
 - 🤝 **Contribute**: PRs, issues, and technical discussions are warmly welcomed
