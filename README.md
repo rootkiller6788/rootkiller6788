@@ -81,6 +81,9 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-distributed-computing-theory` | Distributed computing theory built from scratch, learn FLP impossibility, Byzantine agreement, Paxos/Raft/PBFT, LOCAL model & synchronizers via practical C coding | MIT 6.852, 6.841; Stanford CS244E, CS254; CMU 15-712, 15-855; ETH 263-4650; Princeton COS 551; Cambridge Part III; Aalto CS; Lynch, Attiya-Welch | [View](https://github.com/rootkiller6788/mini-distributed-computing-theory) |
 | `mini-computational-learning-theory` | Computational learning theory built from scratch, learn PAC model, VC dimension, online learning regret, boosting theory & differential privacy via practical C coding | MIT 6.860; Stanford CS229T, CS255, CS355; Berkeley CS281A; CMU 10-715, 15-859; Princeton COS 511; Kearns-Vazirani, Shalev-Shwartz | [View](https://github.com/rootkiller6788/mini-computational-learning-theory) |
 | `mini-reactive-verification-synthesis` | Reactive verification & synthesis built from scratch, learn LTL/CTL model checking, Buchi automata, BDDs, GR(1) synthesis & symbolic model checking via practical C coding | MIT 6.841; CMU 15-414, 18-760; Stanford CS254; Clarke-Emerson-Pnueli, Baier-Katoen | [View](https://github.com/rootkiller6788/mini-reactive-verification-synthesis) |
+
+---
+
 ## [COMPUTING] Bare-Metal Full-Stack Foundation (`mini-*` Series)
 
 > Full coverage of the entire computer technology stack, **100% pure C implemented from scratch**. Rigorous bottom-up construction to verify the underlying core principles of all hardware, system, network, business and intelligent technologies.
