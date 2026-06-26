@@ -113,8 +113,6 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 
 ---
 
----
-
 ## [PHYSICS] Pure Physics Foundations (`mini-*` Series)
 
 > **University-level physics built from scratch in zero-dependency C**. Every sub-module maps to MIT and top-tier university courses, translating textbook formulas from Goldstein, Landau, Jackson, Griffiths, and Feynman into executable C simulations from first principles.
@@ -142,11 +140,8 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-biophysics` | Biophysics built from scratch, learn biomechanics, membrane physics, molecular motors, bioimaging & neural biophysics via practical C coding | MIT 20.310, 20.320, 8.241; Caltech BE 150, 153, Ph 106; Cambridge Part II; Oxford Mathematical B | [View](https://github.com/rootkiller6788/mini-biophysics) |
 | `mini-interdisciplinary-physics` | Interdisciplinary physics built from scratch, learn geophysics, climate physics, econophysics, medical physics & complex systems via practical C coding | MIT 12.002, 12.003, 12.340, 2.092, 14.44; Caltech Ge 110, EE 152, Ph 219 | [View](https://github.com/rootkiller6788/mini-interdisciplinary-physics) |
 
-
 ---
 
-﻿---
-﻿---
 ## [ENGPHYS] Engineering Physics (`mini-*` Series)
 
 > **Applied engineering physics built from scratch in zero-dependency C.** Transport phenomena, heat and mass transfer, vacuum thin-film processes, and reaction engineering -- bridging pure physics with industrial engineering practice.
@@ -158,6 +153,7 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-eng-transport-phenomena` | Transport phenomena built from scratch, learn convective diffusion, interphase transport, dimensionless numbers & computational transport via practical C coding | MIT 2.25, 2.29, 10.37, 10.50, 16.90 | [View](https://github.com/rootkiller6788/mini-eng-transport-phenomena) |
 | `mini-eng-reaction-engineering` | Reaction engineering built from scratch, learn CSTR/PFR/batch reactors, Arrhenius kinetics, catalysis & combustion via practical C coding | MIT 10.37, 10.542; Stanford CME 330 | [View](https://github.com/rootkiller6788/mini-eng-reaction-engineering) |
 
+---
 
 ## [ELEC] Electronic Information Engineering (`mini-*` Series)
 
@@ -196,6 +192,7 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-sensor-interface-circuit` | Sensor interface circuits built from scratch, learn Wheatstone bridge, instrumentation amplifier, ADC driver, isolation & 4-20mA loop via practical C coding | MIT 2.171, 6.002, 6.003; IEC 60747; ISA-50 | [View](https://github.com/rootkiller6788/mini-sensor-interface-circuit) |
 | `mini-motor-drive-power-practice` | Motor drive power practice built from scratch, learn BLDC control, FOC, inverter design, current sensing & protection via practical C coding | MIT 2.004, 6.131, 6.310, 6.622 | [View](https://github.com/rootkiller6788/mini-motor-drive-power-practice) |
 
+---
 
 ## [AUTO] Automation Theory (`mini-*` Series)
 
@@ -215,8 +212,8 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-stochastic-control` | Stochastic control built from scratch, learn certainty equivalence, LQG, bandit problems & decentralized stochastic control via practical C coding | MIT 6.231, 6.241; Caltech CDS 240; ETH 151-0567; Kalman | [View](https://github.com/rootkiller6788/mini-stochastic-control) |
 | `mini-automation-application-systems` | Automation application systems built from scratch, learn aerospace GNC, automotive control, autonomous vehicles & building energy control via practical C coding | MIT 16.30, 16.842, 6.061, 10.450, 4.463 | [View](https://github.com/rootkiller6788/mini-automation-application-systems) |
 
-
 ﻿---
+ 
 ## [CTRL] Complex Control Theory (`mini-*` Series)
 
 > **Advanced control theory built from scratch in zero-dependency C.** From classical linear systems and optimal control to nonlinear dynamics, adaptive/robust/geometric control, multi-agent coordination, and cybernetic foundations -- spanning Kalman, Pontryagin, Lyapunov, and Bellman paradigms.
@@ -254,8 +251,8 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-complex-adaptive-systems` | Complex adaptive systems built from scratch, learn swarm intelligence, agent adaptation, CAS economics, artificial life and emergence via practical C coding | MIT 6.045, 6.7201, 6.7900, 6.821, 14.13; Lyapunov | [View](https://github.com/rootkiller6788/mini-complex-adaptive-systems) |
 | `mini-cybernetics-foundation` | Cybernetics foundations built from scratch, learn Ashby homeostasis, autopoiesis, control philosophy and human-machine symbiosis via practical C coding | MIT 6.045, 6.241, 6.241J; Caltech CS 151; Cambridge Part II; ETH 227-0216 | [View](https://github.com/rootkiller6788/mini-cybernetics-foundation) |
 
-
 ﻿---
+ 
 ## [CTRLENG] Control Engineering Practice (`mini-*` Series)
 
 > **Industrial control engineering practice built from scratch in zero-dependency C.** From field instrumentation, PID tuning, and PLC/DCS/SCADA systems through advanced process control, MPC implementation, safety systems, MES digital factory, and industrial cybersecurity.
@@ -283,8 +280,8 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 | `mini-industrial-ai-control-fusion` | Industrial AI and control fusion built from scratch, learn anomaly detection, predictive maintenance, RL process optimization & edge AI inference via practical C coding | MIT 2.171; CMU 24-677; IEC 61131; ISA-5, 95 | [View](https://github.com/rootkiller6788/mini-industrial-ai-control-fusion) |
 | `mini-control-system-cybersecurity` | Control system cybersecurity built from scratch, learn IEC 62443, deep packet inspection, whitelisting, key management & OT network segmentation via practical C coding | MIT 6.858; CMU 24-677; IEC 62443 | [View](https://github.com/rootkiller6788/mini-control-system-cybersecurity) |
 
-
 ﻿---
+ 
 ## [AI] LLM Architecture & AI Engineering Systems
 
 > Focus on large model architecture inference, kernel optimization, automated research, and multi-agent engineering workflows.
