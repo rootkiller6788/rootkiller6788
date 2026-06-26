@@ -314,7 +314,7 @@ This repository archive records continuous **bottom-up engineering** and **AI pa
 
 | Repository | Description | Link |
 |-----------|-------------|------|
-| `OntoLoop` 🌟 | Scalable verifiable autonomous AI runtime with swarm intelligence & self-evolution capability | [View](https://github.com/rootkiller6788/OntoLoop) |
+| `OntoLoop` | Scalable verifiable autonomous AI runtime with swarm intelligence & self-evolution capability | [View](https://github.com/rootkiller6788/OntoLoop) |
 | `Apeinx` | AI underlying resource scheduling system, "Linux for AI" (GPU/Token/Model/Agent unified management) | [View](https://github.com/rootkiller6788/Apeinx) |
 | `Triton-Agent` | Autonomous GPU kernel construction, tuning & optimization agent | [View](https://github.com/rootkiller6788/Triton-Agent) |
 
@@ -334,15 +334,15 @@ Philosophy: Verifiable · Reproducible · From Scratch · Open by Default
 
 ## Connect & Contribute
 
-- 🔍 **Explore**: Browse any repository above — all code is open for inspection and contribution
-- 🤝 **Contribute**: PRs, issues, and technical discussions are warmly welcomed
-- 💡 **Collaborate**: Interested in bottom-up AI infrastructure research? Let's connect
+-  **Explore**: Browse any repository above — all code is open for inspection and contribution
+-  **Contribute**: PRs, issues, and technical discussions are warmly welcomed
+-  **Collaborate**: Interested in bottom-up AI infrastructure research? Let's connect
 
 > *"The best way to predict the future is to implement it from first principles."*
 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ and bare-metal determination by <a href="https://github.com/rootkiller6788"><strong>rootkiller6788</strong></a></sub><br>
-  <sub>🔐 All projects are open source under MIT License unless otherwise specified</sub>
+  <sub>Built with love and bare-metal determination by <a href="https://github.com/rootkiller6788"><strong>rootkiller6788</strong></a></sub><br>
+  <sub>All projects are open source under MIT License unless otherwise specified</sub>
 </p>
