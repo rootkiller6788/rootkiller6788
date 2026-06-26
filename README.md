@@ -1,4 +1,4 @@
-# 👋 Hi, I'm rootkiller6788
+#  Hi, I'm rootkiller6788
 
 > *Developing closed-loop mathematical ontology systems and first-principles AI foundations through type-theoretic structures, semantic fields, formal verification, and computational architecture.*.
 
