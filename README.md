@@ -1,6 +1,9 @@
 #  Hi, I'm rootkiller6788  👋
 
-<img align="right" src="assets/coord.svg" width="340" alt="3D coordinate system" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/coord-dark.gif">
+  <img align="right" src="assets/coord-light.gif" width="340" alt="3D coordinate system" />
+</picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-rootkiller6788-181717?logo=github&logoColor=white)](https://github.com/rootkiller6788)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
