@@ -27,14 +27,7 @@ My research and practice aim to establish the foundational framework for AI-nati
 
 **Mathematics → Computation → Systems → Intelligence → Autonomy**
 
-## Technical Pillars
-To reshape the modern paradigm of human production, the system is built upon five core technical pillars, allowing intelligent agents to act as steady, professional collaborators for humanity:
-
-- **Autonomous Harness**
-- **Agent Runtime**
-- **Formal Verification**
-- **Engineering Knowledge Graphs**
-- **Closed-loop Control Loops**
+The rotating coordinate system to the right maps my technical landscape across three axes — **Computation**, **Physics**, and **Control**. See [DETAILS.md](./DETAILS.md) for the full breakdown.
 
 ## Vision &amp; Mission
 
