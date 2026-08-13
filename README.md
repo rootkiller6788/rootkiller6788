@@ -1,10 +1,5 @@
 #  Hi, I'm rootkiller6788  👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/coord-dark.gif">
-  <img align="right" src="assets/coord-light.gif" width="340" alt="3D coordinate system" />
-</picture>
-
 [![GitHub](https://img.shields.io/badge/GitHub-rootkiller6788-181717?logo=github&logoColor=white)](https://github.com/rootkiller6788)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/rootkiller6788)
@@ -12,25 +7,13 @@
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/vibe-coding-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/vibe-coding-light.svg">
-    <img alt="Vibe coding stats" src="./assets/vibe-coding-light.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/search?q=author%3Arootkiller6788&type=pullrequests">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/oss-contributions-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/oss-contributions-light.svg">
-      <img alt="Open source contributions" src="./assets/oss-contributions-light.svg" width="840">
-    </picture>
-  </a>
-</p>
 
 # Autonomous Engineering Manifesto
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/coord-dark.gif">
+  <img align="right" src="assets/coord-light.gif" width="340" alt="3D coordinate system" />
+</picture>
 
 ## Overview
 Software is entering a new era.
