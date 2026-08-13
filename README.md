@@ -9,6 +9,24 @@
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/vibe-coding-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/vibe-coding-light.svg">
+    <img alt="Vibe coding stats" src="./assets/vibe-coding-light.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/search?q=author%3Arootkiller6788&type=pullrequests">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/oss-contributions-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/oss-contributions-light.svg">
+      <img alt="Open source contributions" src="./assets/oss-contributions-light.svg" width="840">
+    </picture>
+  </a>
+</p>
+
 # Autonomous Engineering Manifesto
 
 ## Overview
