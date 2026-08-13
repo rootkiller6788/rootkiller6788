@@ -29,17 +29,7 @@ My research and practice aim to establish the foundational framework for AI-nati
 
 The rotating coordinate system to the right maps my technical landscape across three axes — **Computation**, **Physics**, and **Control**. See [DETAILS.md](./DETAILS.md) for the full breakdown.
 
-## Vision &amp; Mission
-
-### Goal
-This paradigm does not seek to replace human beings. Instead, it unlocks human creativity and expands human potential through scalable, verifiable, self-evolving autonomous systems.
-
-### Paradigm Shift
-Human productive activity is undergoing a fundamental transformation:
-
-**From individual manual repetitive labor → Autonomous infrastructure for autonomous operation**
-
-## Final Thesis
+## Vision &amp; Missio
 Autonomous systems will take over all repetitive, low-value standardized labor, liberating humanity from mechanical and burdensome tasks so people can focus on creative, high-order exploration. Complex undertakings will ultimately be led by humans and accomplished collaboratively with intelligent autonomous systems.
 
 ## Tech Stack
