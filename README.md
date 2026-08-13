@@ -355,6 +355,6 @@ Philosophy: Verifiable · Reproducible · From Scratch · Open by Default
 
 
 <p align="center">
-  <sub>Built with love and bare-metal determination by <a href="https://github.com/rootkiller6788"><strong>rootkiller6788</strong></a></sub><br>
+  <sub>Constructed under bare-metal discipline by <a href="https://github.com/rootkiller6788"><strong>rootkiller6788</strong></a></sub><br>
   <sub>All projects are open source under MIT License unless otherwise specified</sub>
 </p>
