@@ -1,8 +1,6 @@
-<table>
-<tr>
-<td valign="top">
-
 #  Hi, I'm rootkiller6788  👋
+
+<img align="right" src="assets/coord.svg" width="340" alt="3D coordinate system" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-rootkiller6788-181717?logo=github&logoColor=white)](https://github.com/rootkiller6788)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -62,12 +60,3 @@ The next generation of software is not written by humans or AI alone — it is b
   <sub>Constructed under bare-metal discipline by <a href="https://github.com/rootkiller6788"><strong>rootkiller6788</strong></a></sub><br>
   <sub>All projects are open source under MIT License unless otherwise specified</sub>
 </p>
-
-</td>
-<td align="center" valign="top">
-
-<img src="assets/coord.svg" width="340" alt="3D coordinate system" />
-
-</td>
-</tr>
-</table>
