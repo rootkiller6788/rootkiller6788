@@ -16,19 +16,19 @@
 </picture>
 
 ## Overview
-Software is entering a new era.
+Human work is entering a new era.
 
-The past generation optimized individual developers with better tools. The next generation will build autonomous engineering systems that transform how software is created.
+The previous age enhanced individual workers with improved tools. The coming age will deliver autonomous systems that redefine how human labor is carried out.
 
-The future of software engineering is no longer limited to **writing code faster**. It lies in building reliable, intelligent systems that can **understand, execute, verify, and continuously improve** engineering work independently.
+The future of productive activity is no longer merely completing routine tasks more quickly. It rests on constructing dependable intelligent systems capable of comprehending, executing, validating, and steadily refining work independently.
 
 ## Core Evolution Path
-My research and practice focus on building the foundational framework for **AI-native engineering**, following a progressive technical evolution path:
+My research and practice aim to establish the foundational framework for AI-native autonomous operation, following a progressive technical evolution path:
 
 **Mathematics → Computation → Systems → Intelligence → Autonomy**
 
 ## Technical Pillars
-To reshape the modern software production paradigm, the system is built on five core technical pillars, enabling AI agents to serve as reliable, professional engineering collaborators:
+To reshape the modern paradigm of human production, the system is built upon five core technical pillars, allowing intelligent agents to act as steady, professional collaborators for humanity:
 
 - **Autonomous Harness**
 - **Agent Runtime**
@@ -39,15 +39,15 @@ To reshape the modern software production paradigm, the system is built on five 
 ## Vision &amp; Mission
 
 ### Goal
-This paradigm is **not to replace human engineers**, but to amplify human creativity and productivity through scalable, verifiable, and self-improving engineering systems.
+This paradigm does not seek to replace human beings. Instead, it unlocks human creativity and expands human potential through scalable, verifiable, self-evolving autonomous systems.
 
 ### Paradigm Shift
-The software industry is undergoing a fundamental transformation:
+Human productive activity is undergoing a fundamental transformation:
 
-**From individual manual coding → Autonomous engineering infrastructure**
+**From individual manual repetitive labor → Autonomous infrastructure for autonomous operation**
 
 ## Final Thesis
-The next generation of software is not written by humans or AI alone — it is built by intelligent systems designed and guided by humans.
+Autonomous systems will take over all repetitive, low-value standardized labor, liberating humanity from mechanical and burdensome tasks so people can focus on creative, high-order exploration. Complex undertakings will ultimately be led by humans and accomplished collaboratively with intelligent autonomous systems.
 
 ## Tech Stack
 
