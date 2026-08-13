@@ -1,3 +1,16 @@
+<table>
+<tr>
+<td valign="top">
+
+#  Hi, I'm rootkiller6788  👋
+
+[![GitHub](https://img.shields.io/badge/GitHub-rootkiller6788-181717?logo=github&logoColor=white)](https://github.com/rootkiller6788)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/rootkiller6788)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rootkiller6788)
+
+---
+
 # Autonomous Engineering Manifesto
 
 ## Overview
@@ -33,3 +46,28 @@ The software industry is undergoing a fundamental transformation:
 
 ## Final Thesis
 The next generation of software is not written by humans or AI alone — it is built by intelligent systems designed and guided by humans.
+
+## Tech Stack
+
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+---
+
+<p align="center">
+  <sub>Constructed under bare-metal discipline by <a href="https://github.com/rootkiller6788"><strong>rootkiller6788</strong></a></sub><br>
+  <sub>All projects are open source under MIT License unless otherwise specified</sub>
+</p>
+
+</td>
+<td align="center" valign="top">
+
+<img src="assets/coord.svg" width="340" alt="3D coordinate system" />
+
+</td>
+</tr>
+</table>

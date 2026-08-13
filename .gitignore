@@ -1,0 +1,22 @@
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Logs & temp ---
+*.log
+*.tmp
+*.bak
+
+# --- Node / build (if any) ---
+node_modules/
+dist/
+build/
