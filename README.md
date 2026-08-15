@@ -1,9 +1,11 @@
 #  Hi, I'm rootkiller6788  👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-rootkiller6788-181717?logo=github&logoColor=white)](https://github.com/rootkiller6788)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/rootkiller6788)
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rootkiller6788)
+![GitHub](https://img.shields.io/badge/GitHub-rootkiller6788-blue?logo=github&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?logo=opensourceinitiative&logoColor=white)
+![CI](https://img.shields.io/badge/CI-passing-blue?logo=githubactions&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?logo=opensourceinitiative&logoColor=white)
+![Docs](https://img.shields.io/badge/docs-online-blue?logo=readthedocs&logoColor=white)
+![Version](https://img.shields.io/badge/version-v0.1-blue)
 
 ---
 
