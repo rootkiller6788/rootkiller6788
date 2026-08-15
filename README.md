@@ -5,7 +5,6 @@
 ![CI](https://img.shields.io/badge/CI-passing-blue?logo=githubactions&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?logo=opensourceinitiative&logoColor=white)
 ![Docs](https://img.shields.io/badge/docs-online-blue?logo=readthedocs&logoColor=white)
-![Version](https://img.shields.io/badge/version-v0.1-blue)
 
 ---
 
