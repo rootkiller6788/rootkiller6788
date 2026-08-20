@@ -9,7 +9,7 @@
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/Felina-dark.png">
-  <img src="assets/Felina-light.png" width="1086" height="1448" alt="Felina" />
+  <img src="assets/Felina-light.png" width="1086" alt="Felina" />
 </picture>
 
 
