@@ -7,7 +7,10 @@
 ![Docs](https://img.shields.io/badge/docs-online-blue?logo=readthedocs&logoColor=white)
 
 ---
-<img width="1085" height="1450" alt="image" src="https://github.com/user-attachments/assets/c78887e0-76eb-44d4-aa35-a4b36227c314" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Felina-dark.png">
+  <img src="assets/Felina-light.png" width="1086" height="1448" alt="Felina" />
+</picture>
 
 
 # Autonomous Engineering Manifesto
