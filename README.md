@@ -7,8 +7,6 @@
 ![Docs](https://img.shields.io/badge/docs-online-blue?logo=readthedocs&logoColor=white)
 
 ---
-<img width="1363" height="1154" alt="image" src="https://github.com/user-attachments/assets/27907a44-1b5f-43c4-a29d-61ad75678195" />
-
 # Autonomous Engineering Manifesto
 
 <picture>
