@@ -8,6 +8,24 @@
 
 ---
 
+# Unified Science Map
+
+<p align="center">
+  <img src="assets/unified-science-map-overview.gif" alt="Unified Science Map — Overview" width="680" />
+</p>
+
+<p align="center">
+  <img src="assets/unified-science-map-network.gif" alt="Unified Science Map — Network" width="680" />
+</p>
+
+<!--
+40,396 commits · 841 contributors
+Lean theorems and definitions color-coded by discipline with real import dependencies. Cyclic category zoom reveals the hierarchical, interactive declarative knowledge network of mathematics, physics and computer science.
+Details: https://github.com/rootkiller6788/UnifiedScienceMap/
+-->
+
+---
+
 # Autonomous Engineering Manifesto
 
 <picture>
