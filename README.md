@@ -59,6 +59,7 @@ Autonomous systems will take over all repetitive, low-value standardized labor, 
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Lean](https://img.shields.io/badge/Lean-000000?style=flat-square&logo=lean&logoColor=grey&labelColor=F5F5F5&color=F5F5F5&text_color=000000)](https://www.lean-lang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
