@@ -51,6 +51,10 @@ The rotating coordinate system to the right maps my technical landscape across t
 ## Vision &amp; Missio
 Autonomous systems will take over all repetitive, low-value standardized labor, liberating humanity from mechanical and burdensome tasks so people can focus on creative, high-order exploration. Complex undertakings will ultimately be led by humans and accomplished collaboratively with intelligent autonomous systems.
 
+<p align="center">
+  <img src="profile-3d-contrib/profile-blue-animate.svg" alt="GitHub 3D Contribution Calendar" width="720" />
+</p>
+
 ## Tech Stack
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org/)

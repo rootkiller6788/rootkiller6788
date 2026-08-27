@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-blue-animate.svg",
+  "backgroundColor": "transparent",
+  "foregroundColor": "#3b6ea5",
+  "strongColor": "#1c4e82",
+  "weakColor": "#8fb3d9",
+  "radarColor": "#3b6ea5",
+  "growingAnimation": true,
+  "contribColors": [
+    "#e8f0f8",
+    "#a8c8e8",
+    "#5f9bd6",
+    "#2e75b6",
+    "#1c4e82"
+  ]
+}
