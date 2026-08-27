@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/unified-science-map-hive.gif" alt="Unified Science Map — Hive" width="680" />
+</p>
+
+<p align="center">
   <img src="assets/unified-science-map-overview.gif" alt="Unified Science Map — Overview" width="680" />
 </p>
 
