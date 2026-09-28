@@ -12,9 +12,9 @@ stroke: #3b6ea5;
 fill: #3b6ea5;
 fill-opacity: 0.5;
 }
-.cont-top-0 { fill: rgb(192, 198, 207); }
-.cont-left-0 { fill: rgb(160, 165, 173); }
-.cont-right-0 { fill: rgb(134, 139, 145); }
+.cont-top-0 { fill: rgba(107, 114, 128, 0.22); }
+.cont-left-0 { fill: rgba(90, 95, 107, 0.22); }
+.cont-right-0 { fill: rgba(75, 80, 90, 0.22); }
 .cont-top-1 { fill: rgb(168, 200, 232); }
 .cont-left-1 { fill: rgb(141, 167, 194); }
 .cont-right-1 { fill: rgb(118, 140, 162); }

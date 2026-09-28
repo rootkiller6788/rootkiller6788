@@ -8,7 +8,7 @@
   "radarColor": "#3b6ea5",
   "growingAnimation": true,
   "contribColors": [
-    "#c0c6cf",
+    "rgba(107, 114, 128, 0.22)",
     "#a8c8e8",
     "#5f9bd6",
     "#2e75b6",
