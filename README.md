@@ -23,18 +23,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/unified-science-map-mycelium.png" alt="Unified Science Map — Mycelium" width="680" />
-</p>
-
-<p align="center">
-  <img src="assets/unified-science-map-coral.png" alt="Unified Science Map — Coral" width="680" />
-</p>
-
-<p align="center">
-  <img src="assets/unified-science-map-interdisc.gif" alt="Unified Science Map — Interdisciplinary Matrix" width="680" />
-</p>
-
-<p align="center">
   <img src="assets/unified-science-map-network.gif" alt="Unified Science Map — Network" width="680" />
 </p>
 
