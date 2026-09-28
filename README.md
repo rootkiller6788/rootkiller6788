@@ -22,6 +22,29 @@
   <img src="assets/unified-science-map-overview.gif" alt="Unified Science Map — Overview" width="680" />
 </p>
 
+<p align="center">
+  <img src="assets/unified-science-map-mycelium.gif" alt="Unified Science Map — Mycelium" width="680" />
+</p>
+
+<p align="center">
+  <img src="assets/unified-science-map-coral.gif" alt="Unified Science Map — Coral" width="680" />
+</p>
+
+<p align="center">
+  <img src="assets/unified-science-map-philosophy.png" alt="Unified Science Map — Philosophy" width="680" />
+</p>
+
+<p align="center">
+  <img src="assets/unified-science-map-strata.png" alt="Unified Science Map — Strata" width="680" />
+</p>
+
+<p align="center">
+  <img src="assets/unified-science-map-atlas.png" alt="Unified Science Map — Atlas" width="680" />
+</p>
+
+<p align="center">
+  <img src="assets/unified-science-map-interdisc.gif" alt="Unified Science Map — Interdisciplinary Matrix" width="680" />
+</p>
 
 <p align="center">
   <strong>40,396 commits · 841 contributors</strong>
