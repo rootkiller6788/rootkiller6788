@@ -15,32 +15,32 @@
 
 <p align="center">
   <img src="assets/unified-science-map-philosophy.png" alt="Unified Science Map — Philosophy" width="680" /><br>
-  <img src="assets/caption-philosophy.svg" alt="Philosophy — chord view; subfields form the ring, while weighted links expose intellectual connections across the philosophical landscape." width="680" />
+  <img src="assets/caption-philosophy.svg" alt="Philosophy — chord view; philosophical fields form the ring, while weighted links reveal connections within and across intellectual traditions." width="680" />
 </p>
 
 <p align="center">
   <img src="assets/unified-science-map-atlas.png" alt="Unified Science Map — Atlas" width="680" /><br>
-  <img src="assets/caption-atlas.svg" alt="Atlas — spatial view; research topics occupy a shared coordinate space, revealing disciplinary regions, local density, and cross-field proximity." width="680" />
+  <img src="assets/caption-atlas.svg" alt="Atlas — spatial view; research topics form a continuous landscape whose density and proximity reveal disciplinary regions and cross-field neighborhoods." width="680" />
 </p>
 
 <p align="center">
   <img src="assets/unified-science-map-strata.png" alt="Unified Science Map — Strata" width="680" /><br>
-  <img src="assets/caption-strata.svg" alt="Strata — flow view; declarations descend through discipline, module, submodule, and kind, exposing the layered structure of formal knowledge." width="680" />
+  <img src="assets/caption-strata.svg" alt="Strata — alluvial view; declarations flow through domain, subject, source, module, submodule, object type, and declaration cluster." width="680" />
 </p>
 
 <p align="center">
   <img src="assets/unified-science-map-network.gif" alt="Unified Science Map — Network" width="680" /><br>
-  <img src="assets/caption-network.svg" alt="Network — dependency view; declarations and their links form large-scale clusters, exposing local neighborhoods and the topology of formal knowledge." width="680" />
+  <img src="assets/caption-network.svg" alt="Network — dependency view; declarations form a large-scale knowledge cloud whose links, clusters, and neighborhoods expose formal structure." width="680" />
 </p>
 
 <p align="center">
   <img src="assets/unified-science-map-hive.gif" alt="Unified Science Map — Hive" width="680" /><br>
-  <img src="assets/caption-hive.svg" alt="Hive — radial view; subjects become structural axes, combining scale, depth distributions, and cross-subject links in one dense projection." width="680" />
+  <img src="assets/caption-hive.svg" alt="Hive — radial view; subject axes combine knowledge scale, structural depth, and cross-subject relations into a dense radial projection." width="680" />
 </p>
 
 <p align="center">
   <img src="assets/unified-science-map-overview.gif" alt="Unified Science Map — Overview" width="680" /><br>
-  <img src="assets/caption-overview.svg" alt="Overview — aggregate view; subject scale, structural depth, construction time, and inter-subject links summarize the formal knowledge space at a glance." width="680" />
+  <img src="assets/caption-overview.svg" alt="Overview — aggregate view; subject bubbles combine scale, overlap, structural depth, and construction order into a global knowledge map." width="680" />
 </p>
 
 <p align="center">
