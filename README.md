@@ -10,6 +10,9 @@
 
 # Unified Science Map
 
+<br>
+<br>
+
 <p align="center">
   <img src="assets/unified-science-map-philosophy.png" alt="Unified Science Map — Philosophy" width="680" /><br>
   <img src="assets/caption-philosophy.svg" alt="Philosophy — chord view; subfields form the ring, while weighted links expose intellectual connections across the philosophical landscape." width="680" />
