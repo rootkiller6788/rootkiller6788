@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/unified-science-map-mycelium.gif" alt="Unified Science Map — Mycelium" width="680" />
+  <img src="assets/unified-science-map-mycelium.png" alt="Unified Science Map — Mycelium" width="680" />
 </p>
 
 <p align="center">
-  <img src="assets/unified-science-map-coral.gif" alt="Unified Science Map — Coral" width="680" />
+  <img src="assets/unified-science-map-coral.png" alt="Unified Science Map — Coral" width="680" />
 </p>
 
 <p align="center">
