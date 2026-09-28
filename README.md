@@ -11,27 +11,33 @@
 # Unified Science Map
 
 <p align="center">
-  <img src="assets/unified-science-map-philosophy.png" alt="Unified Science Map — Philosophy" width="680" />
+  <img src="assets/unified-science-map-philosophy.png" alt="Unified Science Map — Philosophy" width="680" /><br>
+  <sub>Chord diagram — how philosophy's subfields cite one another; each arc is labelled with its number of works.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/unified-science-map-atlas.png" alt="Unified Science Map — Atlas" width="680" />
+  <img src="assets/unified-science-map-atlas.png" alt="Unified Science Map — Atlas" width="680" /><br>
+  <sub>Topic atlas — research topics laid out by density, each label pairing a topic with its broader field.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/unified-science-map-strata.png" alt="Unified Science Map — Strata" width="680" />
+  <img src="assets/unified-science-map-strata.png" alt="Unified Science Map — Strata" width="680" /><br>
+  <sub>Sankey — one Lean declaration traced from discipline group, through its Mathlib module and submodule, down to its kind (theorem / lemma / def).</sub>
 </p>
 
 <p align="center">
-  <img src="assets/unified-science-map-network.gif" alt="Unified Science Map — Network" width="680" />
+  <img src="assets/unified-science-map-network.gif" alt="Unified Science Map — Network" width="680" /><br>
+  <sub>Branch clustering — mathematical fields collapsed into colour-coded clusters.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/unified-science-map-hive.gif" alt="Unified Science Map — Hive" width="680" />
+  <img src="assets/unified-science-map-hive.gif" alt="Unified Science Map — Hive" width="680" /><br>
+  <sub>Hive — all 41 subjects arranged radially around a central hub.</sub>
 </p>
 
 <p align="center">
-  <img src="assets/unified-science-map-overview.gif" alt="Unified Science Map — Overview" width="680" />
+  <img src="assets/unified-science-map-overview.gif" alt="Unified Science Map — Overview" width="680" /><br>
+  <sub>Overview — every field drawn as a circle; overlaps show shared material, the axis below tracks how combinations grew.</sub>
 </p>
 
 <p align="center">
