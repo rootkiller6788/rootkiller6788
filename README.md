@@ -14,8 +14,8 @@
 <br>
 
 <p align="center">
-  <img src="assets/unified-science-map-philosophy.png" alt="Unified Science Map — Philosophy" width="680" /><br>
-  <img src="assets/caption-philosophy.svg" alt="Logos — chord view; philosophical subfields form the ring, while weighted links expose intellectual connections across the landscape of philosophy." width="680" />
+  <img src="assets/unified-science-map-logos.png" alt="Unified Science Map — Logos" width="680" /><br>
+  <img src="assets/caption-logos.svg" alt="Logos — chord view; philosophical subfields form the ring, while weighted links expose intellectual connections across the landscape of philosophy." width="680" />
 </p>
 
 <p align="center">
