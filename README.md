@@ -15,32 +15,32 @@
 
 <p align="center">
   <img src="assets/unified-science-map-philosophy.png" alt="Unified Science Map — Philosophy" width="680" /><br>
-  <img src="assets/caption-philosophy.svg" alt="Philosophy — chord view; subfields form the ring, while weighted links expose intellectual connections across the philosophical landscape." width="680" />
+  <img src="assets/caption-philosophy.svg" alt="Logos — chord view; philosophical subfields form the ring, while weighted links expose intellectual connections across the landscape of philosophy." width="680" />
 </p>
 
 <p align="center">
   <img src="assets/unified-science-map-atlas.png" alt="Unified Science Map — Atlas" width="680" /><br>
-  <img src="assets/caption-atlas.svg" alt="Atlas — spatial view; research topics occupy a shared coordinate space, revealing disciplinary regions, local density, and cross-field proximity." width="680" />
+  <img src="assets/caption-atlas.svg" alt="Atlas — spatial view; scientific disciplines occupy a shared coordinate space, revealing major fields, research topics, and cross-disciplinary proximity." width="680" />
 </p>
 
 <p align="center">
   <img src="assets/unified-science-map-strata.png" alt="Unified Science Map — Strata" width="680" /><br>
-  <img src="assets/caption-strata.svg" alt="Strata — flow view; declarations descend through discipline, module, submodule, and kind, exposing the layered structure of formal knowledge." width="680" />
+  <img src="assets/caption-strata.svg" alt="Strata — flow view; scientific knowledge descends through discipline, field, subfield, and topic, exposing the layered structure of science." width="680" />
 </p>
 
 <p align="center">
   <img src="assets/unified-science-map-network.gif" alt="Unified Science Map — Network" width="680" /><br>
-  <img src="assets/caption-network.svg" alt="Network — dependency view; declarations and their links form large-scale clusters, exposing local neighborhoods and the topology of formal knowledge." width="680" />
+  <img src="assets/caption-network.svg" alt="Network — dependency view; mathematics, physics, and computer science form linked declaration clusters, exposing local neighborhoods and formal knowledge topology." width="680" />
 </p>
 
 <p align="center">
   <img src="assets/unified-science-map-hive.gif" alt="Unified Science Map — Hive" width="680" /><br>
-  <img src="assets/caption-hive.svg" alt="Hive — radial view; subjects become structural axes, combining scale, depth distributions, and cross-subject links in one dense projection." width="680" />
+  <img src="assets/caption-hive.svg" alt="Hive — radial view; mathematics, physics, and computer science become structural axes, combining branch scale, depth distributions, and internal proportions." width="680" />
 </p>
 
 <p align="center">
   <img src="assets/unified-science-map-overview.gif" alt="Unified Science Map — Overview" width="680" /><br>
-  <img src="assets/caption-overview.svg" alt="Overview — aggregate view; subject scale, structural depth, construction time, and inter-subject links summarize the formal knowledge space at a glance." width="680" />
+  <img src="assets/caption-overview.svg" alt="Overview — aggregate view; mathematics, physics, and computer science reveal subject scale, structural distribution, and cross-field intersections at a glance." width="680" />
 </p>
 
 <p align="center">
