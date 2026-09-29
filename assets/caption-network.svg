@@ -5,6 +5,6 @@
     .n { font-weight: 600; }
   </style>
   <text x="340" y="15" text-anchor="middle"><tspan class="n">Network</tspan> — dependency view</text>
-  <text x="340" y="32" text-anchor="middle">mathematics, physics, and computer science form linked declaration</text>
-  <text x="340" y="49" text-anchor="middle">clusters, exposing local neighborhoods and formal knowledge topology.</text>
+  <text x="340" y="32" text-anchor="middle">mathematics, physics, and computer science form linked declaration clusters, exposing local neighborhoods</text>
+  <text x="340" y="49" text-anchor="middle">and formal knowledge topology.</text>
 </svg>

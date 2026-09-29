@@ -5,6 +5,6 @@
     .n { font-weight: 600; }
   </style>
   <text x="340" y="15" text-anchor="middle"><tspan class="n">Atlas</tspan> — spatial view</text>
-  <text x="340" y="32" text-anchor="middle">scientific disciplines occupy a shared coordinate space, revealing</text>
-  <text x="340" y="49" text-anchor="middle">major fields, research topics, and cross-disciplinary proximity.</text>
+  <text x="340" y="32" text-anchor="middle">scientific disciplines occupy a shared coordinate space, revealing major fields, research topics, and</text>
+  <text x="340" y="49" text-anchor="middle">cross-disciplinary proximity.</text>
 </svg>

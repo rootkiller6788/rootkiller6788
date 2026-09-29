@@ -5,6 +5,6 @@
     .n { font-weight: 600; }
   </style>
   <text x="340" y="15" text-anchor="middle"><tspan class="n">Overview</tspan> — aggregate view</text>
-  <text x="340" y="32" text-anchor="middle">mathematics, physics, and computer science reveal subject scale,</text>
-  <text x="340" y="49" text-anchor="middle">structural distribution, and cross-field intersections at a glance.</text>
+  <text x="340" y="32" text-anchor="middle">mathematics, physics, and computer science reveal subject scale, structural distribution, and cross-field</text>
+  <text x="340" y="49" text-anchor="middle">intersections at a glance.</text>
 </svg>

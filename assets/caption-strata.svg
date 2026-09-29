@@ -5,6 +5,6 @@
     .n { font-weight: 600; }
   </style>
   <text x="340" y="15" text-anchor="middle"><tspan class="n">Strata</tspan> — flow view</text>
-  <text x="340" y="32" text-anchor="middle">scientific knowledge descends through discipline, field,</text>
-  <text x="340" y="49" text-anchor="middle">subfield, and topic, exposing the layered structure of science.</text>
+  <text x="340" y="32" text-anchor="middle">scientific knowledge descends through discipline, field, subfield, and topic, exposing the layered structure of</text>
+  <text x="340" y="49" text-anchor="middle">science.</text>
 </svg>

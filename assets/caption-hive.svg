@@ -5,6 +5,6 @@
     .n { font-weight: 600; }
   </style>
   <text x="340" y="15" text-anchor="middle"><tspan class="n">Hive</tspan> — radial view</text>
-  <text x="340" y="32" text-anchor="middle">mathematics, physics, and computer science become structural axes,</text>
-  <text x="340" y="49" text-anchor="middle">combining branch scale, depth distributions, and internal proportions.</text>
+  <text x="340" y="32" text-anchor="middle">mathematics, physics, and computer science become structural axes, combining branch scale, depth</text>
+  <text x="340" y="49" text-anchor="middle">distributions, and internal proportions.</text>
 </svg>
